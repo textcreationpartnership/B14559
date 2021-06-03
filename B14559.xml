@@ -1,0 +1,908 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Linceus spectacles. Written by Lodowicke Lloid Esquire</title>
+            <author>Lloyd, Lodowick, fl. 1573-1610.</author>
+         </titleStmt>
+         <extent>Approx. 126KB of XML-encoded text transcribed from 38 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14559</idno><idno type="EEBO-CITATION">99844432</idno>
+  <idno type="VID">176938</idno>
+  <idno type="EEBO-PROQUEST">2240888457</idno>
+  <idno type="STC">STC 16623a.5</idno>
+  <idno type="STC">ESTC S108777</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99844432e"/>
+            <note>(EEBO-TCP ; phase 2, no. B14559)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176938)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 721:02)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Linceus spectacles. Written by Lodowicke Lloid Esquire</title>
+                  <author>Lloyd, Lodowick, fl. 1573-1610.</author>
+               </titleStmt>
+               <extent>[8], 67, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Nicholas Okes, dwelling neere Holborne bridge,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1607.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title reads: Linceus spectacle.</note>
+                  <note>In this state the dedication begins on A2r and goes for three leaves.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+                  <note>Identified as STC 16623a on UMI microfilm.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176938:1"/>
+            <pb facs="tcp:176938:1"/>
+            <p>Linceus Spectacles.</p>
+            <q>
+               <bibl>
+                  <hi>ESA. 6.</hi>
+               </bibl> Videntes videbitis, non videbitis.</q>
+            <p>Written by <hi>Lodowicke Lloid</hi> Esquire.</p>
+            <figure>
+               <q>LABORE ET CONSTANTIA</q>
+               <figDesc>printer's device of Nicholas Okes</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Nicholas Okes,</hi> dwelling neere Holborne bridge. 1607.</p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:176938:2"/>
+            <p>
+               <figure>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:176938:2"/>
+            <head>TO THE MOST HIGH AND MIGHTIE KING, IAMES, BY THE GRCE of God King of Great Brittaine, France <hi>and Ireland, &amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">L</seg>ONG doubting most mightie Prince, either to passe my griefe in si<g ref="char:EOLhyphen"/>lence most safe with <hi>Py<g ref="char:EOLhyphen"/>thagoras,</hi> or to hazard speech in danger with <hi>Calisthenes,</hi> sith <hi>Demosthenes</hi> got as many Talents by not speaking, as <hi>Isocrates</hi> had by spea<g ref="char:EOLhyphen"/>king, And therefore J must rather striue more with vertue then accuse for<g ref="char:EOLhyphen"/>tune, though more vnfortunate then he that cryed in <hi>Aistophanes,</hi> that he had beene more then a thousand times vn<g ref="char:EOLhyphen"/>fortunate,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> that J may weepe more with <hi>Heraclitus</hi> then laugh with <hi>De<g ref="char:EOLhyphen"/>mocritus,</hi>
+               <pb facs="tcp:176938:3"/>and the rather that <hi>Bias</hi> escaped the fire at Prienna, <hi>Socrates</hi> the bullets at Tanagra, &amp; <hi>Zeno</hi> shipwrak on seas: my selfe so vnfortunate that I sinke and suffer piracie on drie ground, with no lesse cause to sob then the Great <hi>Alexander</hi> had to sigh, He for want of children, and I for losse of my children. Whē <hi>Pindarus</hi> had asked himself <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, who was great then in Greece, not <hi>Aristotles</hi> happy man, not the Sto<g ref="char:EOLhyphen"/>ickes wise man, nor stout <hi>Achilles</hi> in Ho<g ref="char:EOLhyphen"/>mer, but they which had store of Owles in their houses in Athens, and they that had Snailes put vp in their chests in <hi>Sparta:</hi> for then <hi>virtus &amp; sapientia testudini cessit,</hi> and so it is in all places, that he that hath not a friēd in court, if he write as many books as <hi>Chrysippus</hi> wrot O<g ref="char:EOLhyphen"/>racles, he shall he considered as <hi>Crates</hi>
+               <pb facs="tcp:176938:3"/>the Theban laide downe in his Ephime<g ref="char:EOLhyphen"/>rides, <hi>Triobulum Philosopho, sumū Consiliario.</hi>
+            </p>
+            <p>Hauing therfore most noble Prince spent my time <hi>sub Aegide Palladis</hi> scaling <hi>Pythagoras</hi> letter vntill age, sicknes and pouertie, haue summoned me to yeld my weapons <hi>Principi &amp; Pae<g ref="char:EOLhyphen"/>natibus patriae</hi> &amp; to liue now like poore <hi>Lamachus</hi> &amp; <hi>Antisthenes cum pera &amp; baculo,</hi> and as <hi>Hippias</hi> the poore Philosopher learned in his olde age to make socks &amp; slippers: so my self in the like age, learned to make glasses and spectacles: which if J might sell them as deere as I bought them, poore <hi>Irus</hi> should be as rich as <hi>Craesus,</hi> and he that liued sometime in face of the Sunne in Court, should not now liue as one of Menippus Moates in the moone out of the Court.</p>
+            <p>J hope I shall see through my glasse
+<pb facs="tcp:176938:4"/>some honorable friend that will com<g ref="char:EOLhyphen"/>mend my Spectacle to your Maiestie, and to accept them as naked Gymnoso<g ref="char:EOLhyphen"/>phists in their Indian coats, but better glasse then that <hi>Athenedorus</hi> gaue to the <hi>Caesars</hi> in Rome, or that <hi>Siman<g ref="char:EOLhyphen"/>dius</hi> commended to the Pharaos of Aegipt, but of late <hi>Simon Magus</hi> had his glasses abroad placed in Cyclops heades, and thought to d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>as <hi>Alexadner</hi> did of the moneth Iune in Macedonia, so to make the moneth of Nouember in England to be the merry moneth of May in Rome, some watching secretly vnseene with <hi>Giges</hi> ring for honor and dignite, some ready with <hi>Mydas</hi> hand for the spoyle, and many of them expect<g ref="char:EOLhyphen"/>ed for the fift of Nouember in Eng<g ref="char:EOLhyphen"/>land should be like the Jdes of March in Rome. They looke that day to haue
+<pb facs="tcp:176938:4"/>their full triumphes, and to put vp their Trophese: but <hi>vnus idemque dies al<g ref="char:EOLhyphen"/>ter &amp; albus:</hi> for that happened to king <hi>Iames</hi> in England as happened to <hi>Mardocheus</hi> in <hi>Persea,</hi> to <hi>Moses in</hi> Egipt: and to <hi>Lucculus</hi> in <hi>Rome:</hi> for periedes of kingdomes are limited of God not to be destroyed but by the sinnes of Kings and kingdomes: let vs then for the fift of August, for the fift of Nouember <hi>in coronatis conuiuiis coronati canere poean.</hi> Longing to heare the murther of <hi>Coesar</hi> in the Se<g ref="char:EOLhyphen"/>nate, and to heare <hi>Brutus</hi> cry liberty out of the Senate.</p>
+            <p>Let vs that scapt their Kalenders, their Nones, their Ides, their moneths and their yeares, <hi>sacros cannere him<g ref="char:EOLhyphen"/>nos.</hi> So did the Hebrues sing phaesah in Aegypt and the Jewes sang Phurim in Persia.</p>
+            <closer>
+               <signed>Your Maiesties most humble seruant</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:176938:5"/>
+            <pb n="1" facs="tcp:176938:5"/>
+            <head>Linceus Spectacle.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He children of Israel beeing bitten by serpents in the wil<g ref="char:EOLhyphen"/>dernesse,<note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Reg. 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> complained to <hi>Mo<g ref="char:EOLhyphen"/>ses;</hi>
+               <note place="margin">The brasen serpent.</note> And God cōmanded <hi>Mo<g ref="char:EOLhyphen"/>ses</hi> to set vp a brasen serpent, that by looking on that ser<g ref="char:EOLhyphen"/>pent, they might be healed &amp; helped from the other serpēts.</p>
+            <p>Cities also were appointed of refuge,<note place="margin">Ioshua. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0.</note> for poore offenders, as sanctuaries to rest vntill their offences were further knowne, not for such as <hi>Ioab</hi> and <hi>Ado<g ref="char:EOLhyphen"/>nias,</hi> who were taken from their Sanctuaries, their Temples, and from the Aultar.</p>
+            <p>Neither for such as ranne to <hi>Cinna</hi> or <hi>Marius,</hi> to subuert their countrey, but as hospitals, appointed for such as by chaunce or against their will had offended.<note place="margin">3. Reg. cap. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>
+            </p>
+            <p>Hence grew the custome with <hi>Pagans,</hi>
+               <note place="margin">Alex. ab Ales.</note> that sol<g ref="char:EOLhyphen"/>diours that so offended, fled either to the sepulchre of <hi>Theseus</hi> in <hi>Athens,</hi> or to the tombe of <hi>Achisles</hi> at <hi>Sygaeum,</hi> so might poore seruants that were iniu<g ref="char:EOLhyphen"/>red by their Maisters, flie to the Statues and the I<g ref="char:EOLhyphen"/>mages of dead Emperours and Kings.</p>
+            <p>It was a kinde of lawfull Appeale in all <hi>Iudea,</hi> to
+<pb n="2" facs="tcp:176938:6"/>fly to the highest court of <hi>Synadrion,</hi> and from all places in <hi>Greece,</hi>
+               <note place="margin">Amphictions.</note> to appeale to the Court of the <hi>Amphictions,</hi> in that kinde of order <hi>Paule</hi> did ap<g ref="char:EOLhyphen"/>peale from <hi>Festus</hi> to <hi>Caesar.</hi>
+            </p>
+            <p>Many poore Courtiers, whose glasses are bro<g ref="char:EOLhyphen"/>ken, would willing appeale if they knew where, but to the Court is the best appeale, for there was one with <hi>Augustus Maecenas,</hi> which fauoured lear<g ref="char:EOLhyphen"/>ning and learned men, one <hi>Endimelech</hi> in that wic<g ref="char:EOLhyphen"/>ked court of <hi>Zedechias,</hi> that helped poore <hi>Ieremie</hi> from his dirty prison,<note place="margin">3. Reg. 13.</note> and there was one <hi>Obadiah</hi> in that Idolatrous court of <hi>Achab,</hi> that fed the poore hungry Prophets of God, beeing in want e<g ref="char:EOLhyphen"/>uen in Egipt, there was one <hi>Ioseph</hi> to comfort <hi>Isra<g ref="char:EOLhyphen"/>el.</hi>
+            </p>
+            <p>Courtiers must wrestle with fortune, &amp; striue with vertue, <hi>hic labor hoc opus est,</hi> they may not excuse themselues, and say my fortune is too weake to contend with fortune, and my vertue no vertue to striue with vertue, and to say <hi>impare congressus Achilli.</hi>
+            </p>
+            <p>But if the Courteors had beene as warie, and carefull as the Bee is by labouring in the Summer against winter,<note place="margin">Plin. lib. 10. cap 69.</note> prouiding in youth for age; in building their houses, in prouiding their victuals, &amp; as the historie saith, <hi>politiae student &amp; regi serui<g ref="char:EOLhyphen"/>unt,</hi> they should finde no fault but in themselues.</p>
+            <p>So is it written of the silke wormes,<note place="margin">Rhod. lib. 9. cap. 38</note> of the Lo<g ref="char:EOLhyphen"/>custs, and of the little Ants, that haue more pro<g ref="char:EOLhyphen"/>uident and naturall care of themselues, then Man
+<pb n="3" facs="tcp:176938:6"/>hath, as <hi>Plutarch</hi> doth write of them in his booke <hi>De solertia animalium.</hi>
+            </p>
+            <p>
+               <hi>O quanta infaelicitas fuisse faelices,</hi> how vnhappy is it to haue beene happie, it is better sometime to be poore with <hi>Aristides</hi> in Athens, then to be rich with <hi>Crassus</hi> in Rome.</p>
+            <p>So <hi>Themistocles</hi> wrote from <hi>Persia</hi> to his friends in Greece, <hi>perijssem nisi perijssem,</hi> it is therfore all one to laugh with <hi>Democritus</hi> at any kinde of for<g ref="char:EOLhyphen"/>tune, as to weepe with <hi>Heraclitus,</hi> there is no trust in Fortunes friendship, and therefore tried friends are easily numbred.</p>
+            <p>
+               <hi>Miletus</hi> beeing asked,<note place="margin">Miletus.</note> why he could not number aboue fiue, answered, I can number well, when I can number all my friends.</p>
+            <p>The <hi>Thracians,</hi>
+               <note place="margin">The Thracians</note> that could not number aboue foure or fiue, like <hi>Miletus,</hi> beeing asked, why they were not taught to number more, answered, to num<g ref="char:EOLhyphen"/>ber our foes were infinite, which no Arithmetick can teach, to number so many friends in <hi>Thracia</hi> is much, and so it is in other places. Many had bin happy, if they had not bin happy, many had beene wise, if they had not beene welthy, &amp; so might <hi>Cre<g ref="char:EOLhyphen"/>sus</hi> haue said, had <hi>Cresus</hi> thought on <hi>Solons</hi> saying.</p>
+            <p>But this kinde of happinesse is like <hi>Ionas</hi> gourd,<note place="margin">Ionas gourde, Ionas. 4.</note> which groweth in one night, and perisheth the next, like that flourishing greene baye tree, which flourished for a short time, and decayed at a mo<g ref="char:EOLhyphen"/>ment, <hi>At sors certior, e celo.</hi>
+            </p>
+            <p>
+               <hi>Elias</hi> buckets are euer full and readie to wet the<note place="margin">3. Reg. cap. 17.</note>
+               <pb n="4" facs="tcp:176938:7"/>barren ground of the godly Courtiers,<note place="margin">Elizeusoyle.</note>
+               <hi>Elizeus</hi> oyle is alwaies present to fil all the empty vessels of the poore that cry to God, their glasses are euer run<g ref="char:EOLhyphen"/>ning.</p>
+            <p>And therefore let poore Courtiers be as reso<g ref="char:EOLhyphen"/>lute and ready to laugh at any hard fortune, with <hi>Democritus,</hi>
+               <note place="margin">Democritus.</note> as to weepe at any misfortune, with <hi>Heraclitus.</hi>
+            </p>
+            <p>Let poore Courtiers wrestle with fortune, and striue with vertue, though farre vnable by fortune, to contend with fortune, and far weaker in vertue to striue with vertue: Rare is that vertue which is not gouern'd by fortune; and most rare is that fortune which will be ruled by vertue, <hi>Rara virtus quam non fortuna gubernat.</hi> It is in Kings and Prin<g ref="char:EOLhyphen"/>ces so to doe, <hi>posse,</hi> and <hi>velle:</hi> for <hi>Caesar</hi> beeing ad<g ref="char:EOLhyphen"/>monished, that hee should not leade his Legions to <hi>Africa</hi> before winter,<note place="margin">Caesars saying.</note> did answere, as <hi>Lucullus</hi> sometime did, beeing forbidden to leade his Ar<g ref="char:EOLhyphen"/>mie into <hi>Armenia:</hi> For that they were <hi>Atri dies,</hi> I will said <hi>Caesar, Atros illos dies, albos facere,</hi> with the like words answered <hi>Lucullus,</hi> and so Kings and Princes may doe.</p>
+            <p>So the greate <hi>Alexander,</hi> being perswaded by the <hi>Macedonians:</hi> that the whole moneth of <hi>Iune,</hi> was an vnfortunat moneth for the <hi>Macedonians</hi> to fight in,<note place="margin">Pla<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. de leg. 1. Alexanders saying.</note> I will then, saide <hi>Alexander,</hi> make the whole moneth of <hi>Iune,</hi> the moneth of <hi>May,</hi> but he that ouercommeth himselfe, saith <hi>Plato,</hi> ouercom<g ref="char:EOLhyphen"/>meth all things, which is more then <hi>Caesar,</hi> or <hi>A<g ref="char:EOLhyphen"/>lexander</hi>
+               <pb n="5" facs="tcp:176938:7"/>could do, <hi>qui se vincit, vincit omnia.</hi>
+            </p>
+            <p>
+               <hi>Aristippus</hi> being asked to what purpose do men bring vp their children in learning, answered,<note place="margin">Rhod. lib. 16. Cap. 13.</note> that when they come to sit on <hi>Theaters,</hi> to see games &amp; playes, <hi>ne lapis super lapidem sederet,</hi> that one stone should not sit vpon another, and that they might through <hi>Linceus</hi> spectacles see faults.</p>
+            <p>The like taunt,<note place="margin">Laert. lib. 2.</note>
+               <hi>Socrates</hi> gaue to one of his schol<g ref="char:EOLhyphen"/>lers, who had his picture well painted on a stone, and said, thou hast beene very carefull to make a stone like thy selfe, but be as carefull (said <hi>Socrates</hi>) that thy selfe bee not like a stone,<note place="margin">Psalme. 115.</note> for so the Pro<g ref="char:EOLhyphen"/>phet saieth, of such as make Images, and Idolls, <hi>Similes sunt statuis &amp; Idolis quae faciunt,</hi> that they are like the Images and Idols which they make.</p>
+            <p>O how many men, were then in <hi>Athens,</hi> and in <hi>Roome,</hi> like stones, and how many more now and then in <hi>Spaine,</hi> I wish they were not in great <hi>Brit<g ref="char:EOLhyphen"/>taine</hi> which do offer, giue &amp; bestow, more money vppon such dead blocks or stones, then vpon the seruants of God in Church, Court, or Cuntry.</p>
+            <p>Many cry in Kings Courts of <hi>Demosthenes</hi> sick<g ref="char:EOLhyphen"/>nes called <hi>Angina.</hi> A sicknes proper to Orators,<note place="margin">Angina, the sicknes of Ora<g ref="char:EOLhyphen"/>tors.</note> yet a number of naturall Orators, though not brought vp in Vniuersities, that knowe the diffe<g ref="char:EOLhyphen"/>rence betweene Logique and Rethoricke, <hi>cum a<g ref="char:EOLhyphen"/>pertis &amp; clausis manibus</hi> which haue <hi>mel in ore, &amp; verba lactis.</hi>
+            </p>
+            <p>This sicknes must be healed with <hi>Demostenes</hi> medicine out of <hi>Harpalus</hi> purse <hi>silendo non loquendo</hi>
+            </p>
+            <pb n="6" facs="tcp:176938:8"/>
+            <p>Some are sick in Court of <hi>Argentina,</hi>
+               <note place="margin">Argentina the sicknesse of Lawiers</note> a sicknes that followeth Lawiers, much like to the kings Euell, which cannot be healed without the Kings hand on it, or <hi>Midas</hi> finger touch it, all must bee gold that they handle.</p>
+            <p>And there is another kinde of sicknes in Court called <hi>Argentantina,</hi>
+               <note place="margin">Argentantina.</note> of which sicknesse the Phisi<g ref="char:EOLhyphen"/>tians cannot heale themselues with Antimonium or Mithridat, though it be a kings medicine, but they most seeke out <hi>Anulum gigis</hi> who while they weare that ring on their fingers, they shall be hea<g ref="char:EOLhyphen"/>led of any sicknesse whatsoeuer: Then they may write as <hi>Menecrates</hi> did to <hi>Philip</hi> of <hi>Macedon,</hi> for they are more proude for making one whole, then sorry for killing a thousand.</p>
+            <p>But if these sick Flatterers in Courts, were o<g ref="char:EOLhyphen"/>pened by Chyrurgions, many should be found to haue heary hearts,<note place="margin">Rhod. lib. 11. cap. 40.</note> as <hi>Aristomenes</hi> hart was found in <hi>Athens:</hi> And some other hearts (being opened) should be found full of thornes, as <hi>Harmonigenes</hi> heart was found in <hi>Sparta,</hi> and some should be found like <hi>Lu, Enobarba</hi> in <hi>Rome</hi> that should not only haue brasen beardes, but also Iron faces and leaden hearts.</p>
+            <p>Cunning flatterers must haue in Court two faces,<note place="margin">Flattering Glasse.</note> as <hi>Ianus</hi> had, and as many foreheads as <hi>Cecrops</hi> had. And I doubt very much, as many hearts as the Partriges of <hi>Paphlagonia,</hi> of which <hi>Theophrastus</hi> writeth, and yet litle enough to please all humors in Courts, yet in their flattering glasse
+<pb n="7" facs="tcp:176938:8"/>they shall see much, and more then in any glasse else besides.</p>
+            <p>And therefore these kinde of flatterers may be well compared to <hi>Quadrigemina Porta</hi> a gate in <hi>Rome,</hi> where some such flatterers, at any time might enter in, and goe out at pleasure.</p>
+            <p>But the poore lame Cripple could flatter none of the Iewes in thirtie eight yeeres,<note place="margin">Ioan. 5.</note> although he lay hard by the Poole <hi>Bethseda,</hi> to help him into <hi>Bethseda:</hi> Northe poore blinde man that cried to Christ, Thou sonne of <hi>Dauid,</hi> could haue one to speake to Christ for him, but all bade him hould his peace, none of those company that then followed,<note place="margin">Iob. 29.</note> might say with Iob <hi>Oculus fui caeco pes claudo &amp; pater pauperum.</hi> Of all such flatterers <hi>Alexander Seuerus</hi> the Emperour would often say, that <hi>Hanibal</hi> might passe more easily, through the hard Rocks of the Alpes into <hi>Italy,</hi> then Truth, <hi>in tanta Adulatorum turba</hi> to the eares of Kings in Courts, so rare a vertue is Truth in Courts, that the glasse of truth is soonest broken in Courts, <hi>Aristip<g ref="char:EOLhyphen"/>pus</hi> glasse is more vsed in Courts then <hi>Solons</hi> glasse.</p>
+            <p>No glasse in Kings Courts hath beene more noysome, well proued in all Histories,<note place="margin">Aristippu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Glasse.</note> then the glasse of flatterers, <hi>placida loquentes, praua struentes:</hi> for sweete and pleasing speech, with <hi>Aristippus</hi> in Courts, are more accepted, then true or profitable speech with <hi>Solon.</hi>
+            </p>
+            <p>And therefore these flatterers are like to <hi>Penelopes</hi> Geese, of which she dreamed that they came to
+<pb n="8" facs="tcp:176938:9"/>her Hall to peake her wheat in the absence of <hi>Vlis<g ref="char:EOLhyphen"/>ses</hi> or rather like the foule Stymphalides,<note place="margin">
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Reg. cap. <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </note> which came to the <hi>Arcadians</hi> to deuoure their corne: yea they might be likened to <hi>Belus Priests</hi> which made their bellies <hi>Caemiterium ciborum,</hi> and made <hi>Nabucadnezar</hi> beleeue that God <hi>Belus</hi> eate vp all his meate, and dranke out all the wine.</p>
+            <p>But <hi>Vlisses</hi> draue all <hi>Penelopes</hi> geese out of <hi>Itha<g ref="char:EOLhyphen"/>ca,</hi>
+               <note place="margin">Penelopes geese Vlisses draue.</note>
+               <hi>Hercules</hi> slue all the rauening Harpies that deuoured the corne in <hi>Arcadia,</hi> and <hi>Daniel</hi> chokt God <hi>Belus</hi> and slue all his flattering priests.</p>
+            <p>
+               <hi>Diogenes</hi> being asked what kinde of wilde beast were worst, saide, that in the mountaines, Lyons and Beares; in Cities, Sycophants and Flatterers: and againe being asked what is the most daunger<g ref="char:EOLhyphen"/>ous beast vpon the earth, among wilde beasts, a Tyrant; among tame beastes, a flatterer.</p>
+            <p>The Popes Calender, the Turkes Alcoran, and much of the Iewes Talmuds: the first furni<g ref="char:EOLhyphen"/>shed with <hi>Legions</hi> of lies, the second with Turkish fables, the third like proud Pythagorians <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. All three so full of flatterie that the Popes foote must be kist, <hi>Dyonisius</hi> Turkish heeles must be spoken vnto, and the proud Rabbins will not be contraried.</p>
+            <p>There wanted no flatterers in Court with <hi>Ab<g ref="char:EOLhyphen"/>salon,</hi>
+               <note place="margin">Hatterers fol<g ref="char:EOLhyphen"/>low Courts.</note> against the King his Father, nor with <hi>Adoni<g ref="char:EOLhyphen"/>as</hi> against his brother <hi>Salomon.</hi>
+            </p>
+            <p>
+               <hi>Balaac</hi> King of <hi>Moab</hi> was not so well pleased with <hi>Balaam,</hi> to praise <hi>Israel</hi> so much, though <hi>Balaam</hi>
+               <pb n="9" facs="tcp:176938:9"/>they spake truth as God cōmanded him, neither did <hi>Balaam</hi> honour <hi>Balaac</hi> as he did before, <hi>Cum pla<g ref="char:EOLhyphen"/>centa sibi verba dixisset,</hi> that also was the cause that <hi>Achab</hi> hated <hi>Micheas</hi> the Prophet for telling truth: for had <hi>Micheas</hi> flattered <hi>Achab,</hi> as the false Pro<g ref="char:EOLhyphen"/>phet did <hi>Zedechias,</hi> and say with <hi>Zedechias,</hi>
+               <note place="margin">2. Paral p. 18.</note>
+               <hi>His Sy<g ref="char:EOLhyphen"/>riam ventilabis, donec deleas eam, Micheas</hi> had not not bin put in prison, &amp; fed with bread and water, &amp; the cause why <hi>Zacharias</hi> was stoned to death, was for telling truth to the King and his Nobles.</p>
+            <p>Miserable is that Court, where truth may not be spokē, <hi>Verum silere, aurum sepelire est,</hi> truth must lead the way to him that saith <hi>Ego sum via veritas et vita.</hi>
+            </p>
+            <p>What infected <hi>Salomon?</hi> flatterous women,<note place="margin">3. Reg. 11.</note>
+               <hi>Amo<g ref="char:EOLhyphen"/>nites, Moabites, Sydonites: Pharaos</hi> daughter.</p>
+            <p>And would haue infected <hi>Moses,</hi>
+               <note place="margin">Exod. 2.</note> had not <hi>Moses</hi> fled from Egipt, where hee was adopted sonne to <hi>Thermutis</hi> daughter, and heire to King <hi>Pharao,</hi> and maried to King <hi>Tharbis</hi> daughter, &amp; heir of <hi>Aethio<g ref="char:EOLhyphen"/>pia,</hi> left both the kingdomes due vnto him, and fled from such idolatrous nations with his glasse vnbro<g ref="char:EOLhyphen"/>ken, and vnstained.</p>
+            <p>And as <hi>Abraham</hi> was commanded to depart frō <hi>Vr,</hi> among the Chaldeans:<note place="margin">Genes. 12.</note> and appointed the first father and preacher of the faith; So was <hi>Moses</hi> ap<g ref="char:EOLhyphen"/>pointed to be the generall captaine, &amp; deliuerer of his people Israel. Let the cleane be kept from the vncleane.</p>
+            <div type="part">
+               <pb n="10" facs="tcp:176938:10"/>
+               <head>The glasse of Trauellers.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He glasse of Trauellers, after they had consumed their time in diuerse kingdoms and countries, to learne languages, &amp; to see fashions and maners of diuerse Nations: Then home with the prodigall Sonne, they returne to their country, loaden with strange sights and won<g ref="char:EOLhyphen"/>ders in greate pouertie.</p>
+               <p>One commeth from <hi>Scythia:</hi> where he saw black snow,<note place="margin">Hielfild. cap. 10. de aquis.</note> ye must beleeue him, if <hi>Anaxagoras</hi> say so; a<g ref="char:EOLhyphen"/>nother from <hi>Armenia,</hi> where he saw red snow, ano<g ref="char:EOLhyphen"/>ther from some Yles in <hi>Persia,</hi> where trees beare woole, and other trees beare gourdes.</p>
+               <p>Some come from <hi>Cypres,</hi> where they saw brasse sowed like corne in the earth, and growne like brasse out of the earth.</p>
+               <p>Some saw where vines bring forth <hi>candida folia ex puro auro,</hi>
+                  <note place="margin">Strange sights of trauellers.</note> white branches, and leaues of pure gold, caried as great presents to Princes and to Kings, and yet they could carie not a leafe, nor a braunch home with them: to shew such wonders in their countrie, to their friends, to be short, they saw with their eies more then <hi>Plinie</hi> wrote with his pen, and yet left no monument behind them, as <hi>Pli<g ref="char:EOLhyphen"/>nie</hi> did.</p>
+               <p>But if Trauelers had seene what they might haue read:<note place="margin">Exod. 14.</note> They should haue seene greater wonders.</p>
+               <p>Where <hi>Moses</hi> walked in the bottome of the sea,
+<pb n="11" facs="tcp:176938:10"/>where <hi>Elias</hi> was carried in a fiery charriot into the Ayre: for so <hi>Chrisostome</hi> cals <hi>Moises,</hi>
+                  <note place="margin">2. Chron. cap. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note>
+                  <hi>viatorum in ma<g ref="char:EOLhyphen"/>re, et Elias aurigam in Aere,</hi> no doubt Sathan was amazd to see <hi>Elias</hi> in a fierie charriot,<note place="margin">The Diu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll is the great tra<g ref="char:EOLhyphen"/>ueller.</note> drawne with fierie horses in his region, he is the onely traueller in the aire, in the seas, in the earth.</p>
+               <p>So a great rich man at his death told his friends that he was willing to die, but that hee feared theeues which lay in ambush in the middle region among the clouds for him, that is, that great thiefe that was cast downe from heauen with millians of theeues with him.</p>
+               <p>Againe where <hi>Enoch</hi> was taken vp aliue in his bodie into heauen. Farre greater wonders then to trauell to see where <hi>Vulcan</hi> fell from heauen to earth in the Ile of Lēnos:<note place="margin">Vulcan fell frō the heauens to Lemnos.</note> where <hi>Vulcan</hi> was so cru<g ref="char:EOLhyphen"/>shed by his fall, that hee euer after went lame. That <hi>Cicero</hi> called him <hi>Claudum deum.</hi>
+                  <note place="margin">Homor Ilia. 10.</note>
+                  <hi>Homer</hi> saith that a whole day was <hi>Vulcan</hi> in falling downe to the earth from heauen.</p>
+               <p>One of the maisters of Israel a great Rabbin of the Iewes,<note place="margin">Ieron. in Da<g ref="char:EOLhyphen"/>niel.</note> hearing that <hi>Abbacuck</hi> was caried by the haires of the head from Ierusalem to Babilon with a messe of pottake in his hand to <hi>Daniel</hi> being in prison with the Lyons, made but a scoffe of it.<note place="margin">Ezech. cap. 5.</note>
+               </p>
+               <p>And againe hearing that <hi>Ezechiel</hi> in like sort was caried from Caldea into Iudea, <hi>Derisit hominem,</hi> &amp; tooke it for fables, and thought it more wonder<g ref="char:EOLhyphen"/>full and straunge then to heare Pismiers to bee as bigge as Elephants,<note place="margin">Lucian Vat. hist. 1.</note> or the foot-steps of <hi>Hercules</hi>
+                  <pb n="12" facs="tcp:176938:11"/>and <hi>Bacchus</hi> to be as bigge as an acre of ground.</p>
+               <p>Some Philosophers also haue trauelled as <hi>Py<g ref="char:EOLhyphen"/>thagoras</hi> to the priests of <hi>Memphis:</hi>
+                  <note place="margin">Old Philoso<g ref="char:EOLhyphen"/>phers treat trauellers.</note>
+                  <hi>Apollouius</hi> trauai<g ref="char:EOLhyphen"/>led to <hi>Persia,</hi> to see and to heare their <hi>Philosophers,</hi> and their <hi>Magi,</hi> from thence to <hi>Scythia,</hi> to the <hi>Masse<g ref="char:EOLhyphen"/>gits,</hi> and to the Indians, to heare and to see <hi>Hiar<g ref="char:EOLhyphen"/>cas</hi> sitting in <hi>suo aureo throno,</hi>
+                  <note place="margin">Hiarchas.</note> reading Astrologie to the <hi>Brachmans.</hi>
+               </p>
+               <p>
+                  <hi>Plato vt qui magister erat Athenis,</hi>
+                  <note place="margin">Plato.</note> hee that was Maister in <hi>Athens,</hi> trauelled from Greece to Egipt to become a Scholler, to learne and to aug<g ref="char:EOLhyphen"/>ment his knowledge to profit his Country, these and many others trauelled to <hi>Ethiop,</hi> &amp; to all parts of the world, to see <hi>Tantalus</hi> well, to heare <hi>Gymnoso<g ref="char:EOLhyphen"/>phists,</hi>
+                  <note place="margin">Gymnosophists</note> and to see the golden table of the Sonne in <hi>Sabulo</hi> Ethiopiae.</p>
+               <p>But of all good and great trauellers, <hi>Paule</hi> the Apostle, <hi>Magister gentium,</hi> better taught and in<g ref="char:EOLhyphen"/>structed to teach others, then all these philoso<g ref="char:EOLhyphen"/>phers:<note place="margin">Paule.</note> After he had trauelled to Arabia, to Damas<g ref="char:EOLhyphen"/>cus, and to all kingdomes and countrys, to teach Christ, both to the Iewes and to the Gentiles, he trauelled further to the third heauens, where hee saw more wonders then were seene in Sir Thomas <hi>Moores</hi> Vtopia. He trauels well that striues to the narrow way, to that rich India where that welth is most sure &amp; safe (said <hi>Antistenes</hi>) that can in Ship<g ref="char:EOLhyphen"/>wrack swim through seas to land,<note place="margin">Laert. de vita Pi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ol.</note> that can frō fire scape free frō burning, &amp; frō Bullets, scape Batte<g ref="char:EOLhyphen"/>ring, so <hi>Zeno</hi> escaped shipwrack, and caried all his
+<pb n="13" facs="tcp:176938:11"/>wealth with him, so <hi>Socrates</hi> escaped the bullets at Tanagra, and Bias the fire at <hi>Prienna,</hi> so that each of them three might say one sentence, <hi>Omnia mea mecum porto.</hi>
+               </p>
+               <p>So can not the Marchant say, though hee brag much of many ships vpon the seas,<note place="margin">Cic. Tus. quest. lib. 5.</note> yet as the phi<g ref="char:EOLhyphen"/>losopher said, <hi>sua f<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>icitas è funibus pēdet,</hi> his wealth hangeth on cables.</p>
+               <p>So cannot the rich couetous Niggard say, which possessed his wealth, <hi>quasi suis vinctus catenis,</hi> and maketh hast to be rich, when in truth <hi>ad vltimum nil, nisi lenta faelicitas.</hi>
+               </p>
+               <p>For if fortune and vertue bee ioyned together, and waighed together in <hi>Critolaus</hi> ballance, it shall be found as <hi>Critolaus</hi> did, who waighed <hi>bona animi, et bona corporis</hi> in one ballance,<note place="margin">Cic. de finit.</note> and found the one like <hi>stellae in radio solis,</hi> the other <hi>quasi sol ipse splendore virtutis.</hi>
+               </p>
+               <p>So it may be said of the Ambitious that builds towers in the aire, whose nature is more agreeued to see one man go before him, then reioyce in a thousand that followe him,<note place="margin">Esth. 3.4.</note> one <hi>Mardocheus</hi> trou<g ref="char:EOLhyphen"/>bled <hi>Hamans</hi> minde more then all <hi>Persia</hi> could please.</p>
+               <p>Some great men ambitious among the Iewes,<note place="margin">Num. 16.</note> tooke vp <hi>Moses</hi> and <hi>Aaron,</hi> saying you extend too much of your selues, ye Sons of <hi>Leui, Cur cleua<g ref="char:EOLhyphen"/>mini super populum Domini,</hi>
+               </p>
+               <p>For that they were the best Tribe amongst the <hi>Israelites,</hi> but such God euer raised and furnished
+<pb n="14" facs="tcp:176938:12"/>with wisedome and vertue, to be stars and pillers of his people in his Church.</p>
+               <p>The Greeks hauing diuerse such ambitious men in euery Citie of <hi>Greece,</hi>
+                  <note place="margin">Aristoph. in Ramis.</note>
+                  <hi>Aristophanes</hi> brought in a commaedie <hi>Pericles</hi> from hell, to admonish the <hi>Atheneans, non oportere leonem in vrbe nutriri,</hi> yong Lions must not be nourished in <hi>Athens,</hi> and therefore great rich &amp; noblemen must be bridled, from hauing too much honour and power, lest thereby,<note place="margin">Solons lawes.</note> they bring <hi>Solons</hi> lawes to <hi>Dracas</hi> lawes.</p>
+               <p>The like we reade that <hi>Priamus Deiphobus,</hi> and many other Greeks and Troians were brought in vpon a stage, vgly, g<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>astly, and bloudy to perswade men that liue ill, to liue better by the terrible and horrible sights of such great men, beeing dead, &amp; in hell punished, <hi>Exempla magis mouent quam ver<g ref="char:EOLhyphen"/>ba,</hi> and therefore I wish such were plaid on their stages in London, and not such wanton lassiuious &amp;c, I wish it were before Kings in Courts.</p>
+               <p>The rich man in hell,<note place="margin">The rich man in hell.</note> requested <hi>Abraham,</hi> to send one from the dead to tell his brethren the tormts and paines he was in, and though it was told him by <hi>Abraham,</hi> that they had <hi>Moses</hi> &amp; the prophets to instruct them, but that was nothing to be beleeued in respect of the other.</p>
+               <p>Yet many trauel to <hi>Africa,</hi>
+                  <note place="margin">Diodor. 2.</note> to seeke out the Ile of <hi>Satyrs,</hi> and become <hi>Satyrs</hi> thereby, many tra<g ref="char:EOLhyphen"/>uels into <hi>Arabia,</hi>
+                  <note place="margin">Satyrs.</note> to seeke out the Ile of Serpents and become <hi>Serpents</hi> thereby, and many tra<g ref="char:EOLhyphen"/>ny trauels to all parts of the world to seeke out
+<pb n="15" facs="tcp:176938:12"/>purgatorie, and are become papists thereby, each of these haue their glasse in their hands, to finde their way and yet misse it.</p>
+            </div>
+            <div type="part">
+               <head>The glasse of Hunters.</head>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">T</seg>Irus</hi> a Greeke Author in descri<g ref="char:EOLhyphen"/>bing the natures of diuerse nati<g ref="char:EOLhyphen"/>ons,<note place="margin">Athenians.</note> in warres the Athenians to be sea souldiers,<note place="margin">Lacedemoniās</note> the Lacedaemoni<g ref="char:EOLhyphen"/>ans, land foot souldiers, the Thes<g ref="char:EOLhyphen"/>salonians horse men. And for that the people of Creete are most giuen to hunting, and hunting much resembling warres: For the cry of hounds are as sweete musicke in Creete, as the cry of soul<g ref="char:EOLhyphen"/>diers in Assiria: For if the crie of souldiers were altogether consonant and agreeable,<note place="margin">The cry of sol<g ref="char:EOLhyphen"/>diers and the cry of hunters must be alike.</note>
+                  <hi>ad primum congressum cum hoste,</hi> the Assirians were animated, and assured by the couragious crie of the Soul<g ref="char:EOLhyphen"/>ers to haue victorie, but if they were dissonant and not agreeable, the Assirians doubted of some faint-hearted souldiers:<note place="margin">Songs of warre and sacrifices.</note> for it was the onely cause why <hi>Cyrus</hi> willed his souldiers after sacrifice done to <hi>Castor</hi> and <hi>Pollux,</hi> to sing warlike songs, with loud instruments, lest they should bee terrified with the horrible cry and clamor of the enemy.</p>
+               <p>So the Lacaedemonians not with trumpets, as the Romans, nor with drums, kettles, pots, and pans, as the Parthians did, but with flutes and soft
+<pb n="16" facs="tcp:176938:13"/>sweete musicall instruments sing martiall songs, and dancing in their armours.<note place="margin">Ioshua.</note>
+               </p>
+               <p>So was the commandement of <hi>Ioshua</hi> to his sol<g ref="char:EOLhyphen"/>diers after they had gone seuen times about the wals of leticho,<note place="margin">Iericho.</note> to sound the Rams hornes, and to shout with a lond crie. And <hi>Gedeon</hi> to his souldi<g ref="char:EOLhyphen"/>ers willed them to breake their pitcher pots, and to make a sudden Ioud crie,<note place="margin">Iud. 7.</note> and so to set on the e<g ref="char:EOLhyphen"/>nemies, saying, <hi>Gladius Dei, &amp; Gedi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nis.</hi>
+               </p>
+               <p>So the hunters iudge of their games by the con<g ref="char:EOLhyphen"/>sent and dissent of the crie of their hounds: For by the dissent of the crie,<note place="margin">The Ethiopian souldier.</note> they resemble the Ethiopi<g ref="char:EOLhyphen"/>an souidiers, who withall dissonant crie, and hor<g ref="char:EOLhyphen"/>rible houldings enter the battell.</p>
+               <p>So the old Gauies with raging and furious cla<g ref="char:EOLhyphen"/>mors without order set on the enemy.<note place="margin">The old Gauls.</note>
+               </p>
+               <p>So some vnskilfull hunters, that cannot recall their hounds, being at Counter, that knowe nor how to put them to the right sent againe, no more then an vnexpert Captaine can vpon the like dis<g ref="char:EOLhyphen"/>order, know to instruct his souldiers.</p>
+               <p>Well therefore is hunting compared to warres, and the hunters to souldiers. It should seeme that <hi>Alexander</hi> the great loued hunting well,<note place="margin">Alexander. Diodor. lib. 17, Biblioth.</note> who gaue King <hi>Porus</hi> a Kingdome for a hundreth and fiftie Indian dogges: For <hi>Alexander</hi> brought no<g ref="char:EOLhyphen"/>thing out of India but dogges and Elephants: For <hi>Alexander</hi> left many of his souldiers in India.</p>
+               <p>
+                  <hi>Haniball</hi> also loued hunting:<note place="margin">Hamball.</note> For he hunted se<g ref="char:EOLhyphen"/>uenteene yeares in Italy for Romes sake: For by
+<pb n="17" facs="tcp:176938:13"/>hunting <hi>Haniball</hi> got Tarentum and Capua.</p>
+               <p>
+                  <hi>Mithridates</hi> a great hunter,<note place="margin">Mithridates a great hunter.</note> who for forty yeares kept wars with the Romans, vsed hunting for chiefe exercise in wars: For the cry of his hounds was as sweete to King <hi>Mithridates</hi> in Asia, as the neighing of a horse to Darius in <hi>Persia,</hi> the one saued himselfe (by hunting) from the <hi>Romains,</hi> the other by the neighing of a horse, became King in <hi>Persia.</hi>
+               </p>
+               <p>The loue of dogs,<note place="margin">The louée of dogges.</note> compared with the loue of men, it is probable, that some dogs lept into the flame of fire to be burned with their Maisters, some haue dyed on the graues of their dead Maisters, &amp; some haue drowned themselues, with swimming after their Maisters.</p>
+               <p>Therefore the old <hi>Romans</hi> couered their house<g ref="char:EOLhyphen"/>hold and country Gods, with dogs skinnes,<note place="margin">The old Ro<g ref="char:EOLhyphen"/>mans.</note> trimd and deckt with sundry, and diuerse kinds of Gar<g ref="char:EOLhyphen"/>lands, made with sweete flowres &amp; franckensence, and placed them in their gates, porches and galla<g ref="char:EOLhyphen"/>ries, to watch and guard their houses from theeues and robbers.</p>
+               <p>In the Temples of <hi>Minerua</hi> in <hi>Achaia,</hi>
+                  <note place="margin">The Temples of Minerua &amp; Iuno. Alex. ab Alex. lib. 1. cap. 3.</note> and in the Temple of <hi>Iuno</hi> in <hi>Samos,</hi> dogs were kept with better trust to be watches, and guards of their Tē<g ref="char:EOLhyphen"/>ples, then men: for feare of Sacriledge.</p>
+               <p>
+                  <hi>Masinissa,</hi> King of <hi>Numidia,</hi> had dogs for his guard, to watch in the next chamber to his Bed<g ref="char:EOLhyphen"/>chamber, such was <hi>Masinissas</hi> trust to dogs,<note place="margin">val. Max. lib. 9. cap. 13.</note> though he had 54 Sonnes, and a large kingdome, all the
+<pb n="18" facs="tcp:176938:14"/>
+                  <hi>Romans</hi> his deere friends: yet esteemed more the biting and barking of dogs before all.</p>
+               <p>It would be tedious to write examples of Dogs,<note place="margin">The loue of Dogs to their Maisters.</note> for <hi>Cymon</hi> the great Captaine of <hi>Athens,</hi> had a dog that loued him so well, that he dyed in prison with his M. <hi>Zantippus</hi> as great a Captaine as hee in Sparta had a dog that loued him so well, that hee swam after his M<seg rend="sup">r</seg>. from <hi>Sparta</hi> to <hi>Salamina,</hi> where the Dog dyed for wearines, and his M. buried him.</p>
+               <p>In <hi>Africa,</hi> a dog was worshiped, and had in such reuerence, that they did gouerne and rule their common weale,<note place="margin">In Africa Dogs worshiped.</note> by the motion and gesture of a common weale, by the motion and gesture of a dog, so did they in <hi>Ethiopia,</hi> prognosticate and cō<g ref="char:EOLhyphen"/>iecture things to come by their dogs, euen in the like manner, as the <hi>Arabians</hi> and the people of <hi>Ca<g ref="char:EOLhyphen"/>ria,</hi> by flights of foules, and the <hi>Romans</hi> by lyuers of beasts.</p>
+               <p>But to conclude, dogs were so esteemed in king<g ref="char:EOLhyphen"/>domes and countries,<note place="margin">Osyris.</note> that <hi>Osyris</hi> the great King of <hi>Egypt</hi> displayed a dog in his chiefe Ensigne in wars and the Emperour <hi>Heliogabolus</hi> was caried in his Triumphs, by soure great dogs.</p>
+            </div>
+            <div type="part">
+               <head>The glasse of Soldiers.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He crie of the valiant soldior,<note place="margin">The bragge of Souldiers</note> that he was in as many set battels as <hi>Marcel<g ref="char:EOLhyphen"/>lus,</hi> which was in 39 battels, in as ma<g ref="char:EOLhyphen"/>ny combats as M. <hi>Seruilius,</hi> which was in 23 combats, &amp; in as many vic<g ref="char:EOLhyphen"/>tories as <hi>Caesar</hi> himselfe, which wan 52 victories.</p>
+               <pb n="19" facs="tcp:176938:14"/>
+               <p>This soldier cryeth, that he serued such great Captaines, which were most famous, and though they come lame and maihemed home, yet it doth them good to remember the victory in besieging such a Citie, and of their fighting on the seas in such a place, there escaping of the bullets,<note place="margin">Eneas sang to his Souldiers.</note> that it doth sollace the Soldier to cry with <hi>Eneas, haec olim meminisse iuuabit.</hi>
+               </p>
+               <p>You must not take from the souldier his valiant mind, his martiall actions and exployts in warres, for the souldier will bragge as his Captaine: for as <hi>Nabucadnezar</hi> sayd, What God can take <hi>Sidrak,</hi>
+                  <note place="margin">Esa. 14.</note>
+                  <hi>Mysael</hi> and <hi>Abednego</hi> out of my hand, so <hi>Rabsases</hi> his Captaine will say, What God will or shall de<g ref="char:EOLhyphen"/>fend any kingdome from his maister.</p>
+               <p>And as <hi>Demetrius</hi> spake to <hi>Ionathan,</hi> Learne,<note place="margin">Demetrius. 1. Macab. 3.</note> and know of others who I am, <hi>Quia mecum virtus bellorum est.</hi>
+               </p>
+               <p>The souldiers of <hi>Benhadad</hi> will say as he sayd, that the dust of Samaria is not enough for euery soldier of <hi>Benhadad</hi> to take a handfull;<note place="margin">3. Reg. 20.</note> For if the gods of the mountaines will not fight with him, the gods of the valleyes shall.</p>
+               <p>Another Captaine crieth out like <hi>Seron</hi> against <hi>Iu. Machabeus,</hi> saying, <hi>Faciam mihi nomen,</hi> I will get me a name on <hi>Iudas Machabeus.</hi>
+               </p>
+               <p>Another like <hi>Gaal</hi> with the like proude crie,<note place="margin">proud bragges.</note> What is <hi>Abimelek,</hi> and what is <hi>Sichem,</hi> O I would I had some such soldiers with me at my command. So <hi>Pyrrhus</hi> wisht and <hi>Marius</hi> would haue Romane
+<pb n="20" facs="tcp:176938:15"/>souldiers, <hi>Non calones, non iactatores,</hi> take away the brag of a souldiers seruice, take also his reputation and life away.</p>
+               <p>And therefore amongst the Thracians,<note place="margin">The Thracians</note> which brag that <hi>Mars</hi> was borne in Thracia, their grea<g ref="char:EOLhyphen"/>test glorie and fame was to haue cuts and wounds on their faces and bodies, thereby to be knowne valiant souldiers.</p>
+               <p>But amongst the Lacaedemonians it was not so,<note place="margin">The Lacede<g ref="char:EOLhyphen"/>monians called Comati mili<g ref="char:EOLhyphen"/>tes.</note> for their souldiers kemd the long haires of their heads and beards: and therefore they were called <hi>Comatimilites,</hi> which when the Captaines of Per<g ref="char:EOLhyphen"/>sia saw <hi>Leonidas</hi> souldiers at Thermopila so deckt and so trimd, <hi>Velut desides &amp; ignauos habuerunt,</hi> but they iudged otherwise of them before the bat<g ref="char:EOLhyphen"/>tell was done: For that 20000 Persians were slaine by 300 Lacaedemonians, who came with sweete slutes and soft pipes.</p>
+               <p>And the Souldiers therefore in Macedonia sit crowned with Lawrell by the Law of <hi>Alexander</hi> the Great to see Games and Plaies in the best pla<g ref="char:EOLhyphen"/>ces and highest roome of the Theatres.<note place="margin">Lawrel crowns.</note>
+               </p>
+               <p>In Persia the souldiors haue golden girdles gi<g ref="char:EOLhyphen"/>uen them by the Law of <hi>Cyrus,</hi>
+                  <note place="margin">Golden girdles</note> to animate the sol<g ref="char:EOLhyphen"/>diors to fight for their countrey.</p>
+               <p>In Greece they had siluer laces and golden fil<g ref="char:EOLhyphen"/>lets to trim vp the haires of their heads,<note place="margin">Siluer laces &amp; golden fillets.</note> and there<g ref="char:EOLhyphen"/>fore were the Lacedemonian Souldiers called <hi>Co<g ref="char:EOLhyphen"/>mati milites.</hi>
+               </p>
+               <p>In Rome the Souldiers haue diuers and sundry
+<pb n="21" facs="tcp:176938:15"/>kinds of Crownes, golden Chaines, Bracelets, and Rings, in reward of their Seruice.<note place="margin">Chains, brace<g ref="char:EOLhyphen"/>lets and rings.</note> Some had Crownes for sauing of Cities, made of <hi>Ex querna fronde,</hi> of Oken bowes. Another sort had <hi>Coronam Obsidionalem,</hi> made <hi>ex illo gramine</hi> of that grasse, where the Citie stood, by remoouing of Sieges, or otherwise.</p>
+               <p>Such a Crowne had <hi>Fabius Maximus,</hi>
+                  <note place="margin">Fabius Max.</note> which by delayes wearied <hi>Hanniball</hi> out of Italie, and saued Rome. The like honour happened to <hi>Lu Sicinius</hi> in the first African Warres: And the third, to <hi>Cneius Atinates,</hi> in <hi>bello Cimbrico,</hi> in the Cimbrian Warres.</p>
+               <p>In Greece <hi>Themistocles</hi> had <hi>Coronam Oleaginam,</hi>
+                  <note place="margin">Reward and gifts in Greece</note> and a golden Chariot, for the sauing of Greece from the Persians. <hi>Milciades</hi> for his victory at Ma<g ref="char:EOLhyphen"/>rathon had his picture in the Port Pucile: And <hi>Dion</hi> for sauing Syracusa from <hi>Dionysius,</hi> had <hi>Coro<g ref="char:EOLhyphen"/>nam auream.</hi>
+               </p>
+               <p>But now neither in Persia, in Sparta, in Athens, or in Rome, or elswhere, the Souldiers haue nowe no such siluer Fillets, nor such Bracelets of Gold, no golden Girdles, or any other Militarie rewards for the crie of Souldiers.</p>
+               <p>Onely of this,<note place="margin">Watch words of souldiers.</note> Souldiers may bragge of some watch<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>word called <hi>Tesserae militares,</hi> which great Captaines vsed in great Warres, as in Persia, the watch-word of <hi>Cyrus,</hi> in many battels vsed,<note place="margin">Cyrus Watch. word. Caesars watch<g ref="char:EOLhyphen"/>word.</note>
+                  <hi>Iupiter belli socius,</hi> or of <hi>Caesars</hi> watch-word, who vsed som<g ref="char:EOLhyphen"/>time <hi>Faelicitas,</hi> sometime <hi>Victoria,</hi> for that <hi>Caesar</hi>
+                  <pb n="22" facs="tcp:176938:16"/>was himselfe in fiftie two set battels: and therfore vsed many watch-words, which <hi>Caesars</hi> Souldiers made great account of, after <hi>Caesars</hi> time.</p>
+               <p>Least I should vse too often <hi>Tautologia,</hi> for that I remember I wrot of <hi>Pompey</hi> the great,<note place="margin">Pompeis glasse broke at pellu<g ref="char:EOLhyphen"/>sum. Plut. in Pomp.</note> for his great victories in Asia, Affricke, and Europe, three parts of the world was cōpared to <hi>Alexander</hi> the great, whose word was <hi>Hercules inuictus,</hi> yet his Glasse brake on the sands at pellusium, in Egypt.</p>
+               <p>
+                  <hi>Antiochus,</hi>
+                  <note place="margin">Antiochus.</note> surnamed <hi>Soter,</hi> vsed this for his watch<g ref="char:EOLhyphen"/>word to his Souldiers in his warres, <hi>aduersus Gala<g ref="char:EOLhyphen"/>tas, bene valere.</hi>
+               </p>
+               <p>These many watch-words shall suffice to solace Souldiers in their crie.</p>
+               <p>So likewise may poore Souldiers weare their great Commaunders and Captains cullors,<note place="margin">Ethiopiam soldiers of the cullors of diurse and sundry ma<g ref="char:EOLhyphen"/>ner in warres.</note> as the Aethyopian Souldiers weare white cullors, the Thracian Souldiers russet cullors, the Africans puke cullor, the Samnites pied or partie cullors, the Lacedemonians vsed Scarlet cullors, and the Persians red cullors: For such cullors ware great <hi>Artaxerxes</hi> King of Persia, in field against his bro<g ref="char:EOLhyphen"/>ther <hi>Cyrus,</hi> and <hi>Cyrus</hi> Souldiers ware white cullors in the selfe same battell against <hi>Artaxerxes:</hi>
+                  <note place="margin">Artaxerxes cul<g ref="char:EOLhyphen"/>lor.</note> but the most of these Nations their glasses were brui<g ref="char:EOLhyphen"/>sed and broken at that time.</p>
+               <p>And so may any Souldier now weare any cul<g ref="char:EOLhyphen"/>lors,<note place="margin">Cyrus cull or.</note> if it be but in Ribbands or Laces about their neckes, to remember and to honour valiant and warlike Nations, and to satisfie their owne valiant
+<pb n="23" facs="tcp:176938:16"/>and noble minds, and to stop their cries, in steede of deserued rewards.</p>
+               <p>And yet somewhat more for the honour of sol<g ref="char:EOLhyphen"/>diers, in whom appeared some naturall grace and Maiestie, to moue people,<note place="margin">Plut. in vita.</note> both to loue and honor them aswell in forraigne countryes as their owne,<note place="margin">Scipio Emilia<g ref="char:EOLhyphen"/>nus.</note> as <hi>Scipio Africanus</hi> the elder had such grace with King <hi>Antiochus</hi> the great, that he ruled more in <hi>A<g ref="char:EOLhyphen"/>sia,</hi> then <hi>Antiochus</hi> &amp; <hi>Scip. Emilianus</hi> with King <hi>Ma<g ref="char:EOLhyphen"/>sinissa</hi> in <hi>Africa,</hi> so greatly honoured and beloued, that at his death he gaue the kingdome of <hi>Numidia</hi> to <hi>Scipio.</hi>
+               </p>
+               <p>So <hi>Paulus Emilius</hi> with the <hi>Macedonians,</hi> &amp; <hi>Pub.</hi>
+                  <note place="margin">Pau. Emilius. Sen. epist. 81.</note>
+                  <hi>Rutillius</hi> though banished from <hi>Rome,</hi> yet so much esteemed in all the Cities of <hi>Asia,</hi> that hee seemed rather to make his triumphs in <hi>Asia,</hi> as the history saith, that <hi>Maius Triumphare quam exulare vide<g ref="char:EOLhyphen"/>retur.</hi>
+               </p>
+               <p>Q.<note place="margin">Q. Meteilus. Cic<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ad Atti<g ref="char:EOLhyphen"/>cum. 1.</note>
+                  <hi>Metellus</hi> could haue no greater honor giuen him by the Senators, then when the table of his creditors were shewed to the Senators that they refused to looke on it saying, <hi>non in Tabulis, sed in vita Metelli respiciendum.</hi>
+               </p>
+               <p>The like reuerence and honor was alwaies gi<g ref="char:EOLhyphen"/>uen <hi>Marcus Cato</hi> that wheresoeuer hee went,<note place="margin">M. cato. Gell. 4, cap. 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> or whatsoeuer he said in the Sennate house, or to the people abroad, it was esteemed, <hi>ac vox cuiusdam numinis,</hi> with great admiration.</p>
+               <p>It is so written o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>Zenocrates,</hi>
+                  <note place="margin">Zenocrates crdit.</note> that when he came as a witnes in a cause before the Iudges <hi>Areopagites</hi>
+                  <pb n="24" facs="tcp:176938:17"/>in Athens, to lay his hand vppon the altar to take his cath, the Iudges with one voice said, <hi>in tanta tanti virisapientia,</hi> needs no oath.</p>
+               <p>C. <hi>Marius</hi> is not to be forgotten, for that in his seauenth and last consulship in <hi>Rome</hi> (although an old man,<note place="margin">C. Marius Silla and Caesar as great soes as frends to Rome.</note> and in much miserie,) forsaken of all his friends, and left naked without weapons, yet had such Maiestie, then in his countenance, that the Executioner, an enemy of <hi>Marius</hi> (being a <hi>Cymbri<g ref="char:EOLhyphen"/>an,</hi> whose nation <hi>Marius</hi> much grieued) being sent into a priuat house, close shut, at <hi>Minternum,</hi> to kill <hi>Marius,</hi>
+                  <note place="margin">The grimme countenance of Marius.</note> at the sight of <hi>Marius</hi> threw downe his weapons and fled, as <hi>Marius, Silla,</hi> and <hi>Caesar</hi> were like <hi>Scipio</hi> to aduance <hi>Rome,</hi> but againe like <hi>Hani<g ref="char:EOLhyphen"/>bal</hi> to plague <hi>Rome.</hi>
+               </p>
+               <p>What can be more said then of the greatnesse, and Maiesty of a soldier, yea in the meanest soldier in the field, that though <hi>Octauius</hi> countenance seemed so great at <hi>Actium,</hi> yet no greater then M. <hi>Perpenna,</hi>
+                  <note place="margin">M. Perpenna.</note> who beeing made a Consul, before hee was a free Citisen, discharged his Consulship, as fullie as though he had gone through all Martiall offices in the field, and did more the <hi>Lu. Varro</hi> the Cousul at the Battell of <hi>Cannes.</hi>
+               </p>
+               <p>Such soldiers were sought for and made much of by <hi>Marius</hi> &amp; <hi>Pyrrhus,</hi>
+                  <note place="margin">Front lib. 3. cap. 1.</note> whose opinion was to haue strong tall men of great stature: that were able to carie their helmets on their heads,<note place="margin">Viget. 3. cap. 1.</note> their targets on their armes, their swords on their sides, their pee<g ref="char:EOLhyphen"/>ces on their shoulders, and their viands on their
+<pb n="25" facs="tcp:176938:17"/>backes, which to carrie,<note place="margin">Cic. Tusc. <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</note> said <hi>Cicero</hi> to an olde Ro<g ref="char:EOLhyphen"/>mane souldier, was no heauier then to carie <hi>hume<g ref="char:EOLhyphen"/>ros, lacertos, manus, &amp;c.</hi>
+               </p>
+               <p>So the old Germanes vsed their souldiers to ca<g ref="char:EOLhyphen"/>rie vpon their armours <hi>Cibaria ferramenta,</hi> and such militarie munitions as were necessary in wars, and as the Romanes then vsed painefull exercise,<note place="margin">Apud Salust.</note>
+                  <hi>Cur<g ref="char:EOLhyphen"/>rere laborare &amp; pondus portare,</hi> to runne, to labour, to suffer the Sunne in their faces, and the dust in their eyes.</p>
+               <p>So saith <hi>Marius, munditias mulieribus labores con<g ref="char:EOLhyphen"/>uenire viris.</hi>
+               </p>
+               <p>Among the Greekes it was a prouerbe, <hi>Dij bona laboribus vendunt:</hi> the gods make sale of labour to men.</p>
+               <p>Then Rome esteemed Romane souldiers,<note place="margin">Valerius Ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. lib. 4. cap. 1.</note> when <hi>Scipio African</hi> and such had their Images and Sta<g ref="char:EOLhyphen"/>tues set vp in the Capitol, in the Oratorie, and in the Market place, but within a while after, <hi>Plus Calonum &amp; scortatorum quam militum,</hi> saith <hi>Lipsius,</hi> followed Romane Captaines.</p>
+               <p>But as warre to the most part is miserable, so to other some auailable and famous:<note place="margin">Herodot. 7.</note> so for a time it was to <hi>Xerxes,</hi> who gathered all the Princes of A<g ref="char:EOLhyphen"/>sia to go against the Grecians, told them, that hee sent for them, not to be <hi>Xerxes</hi> Counsellors, but to obaie <hi>Xerxes, Vobis magis parendum quam suaden<g ref="char:EOLhyphen"/>dum est.</hi>
+               </p>
+               <p>
+                  <hi>Haniball</hi> as insolent as <hi>Xerxes,</hi>
+                  <note place="margin">Polyb. 3.</note> after his great vi<g ref="char:EOLhyphen"/>ctories ouer the Romanes at Cannes, admitted no
+<pb n="26" facs="tcp:176938:18"/>soldier, no Citizen to come to his tents, neither did he answere any Captaine, or to any man else, but by an interpretor.</p>
+               <p>The insolencie of <hi>Alex:</hi>
+                  <note place="margin">Put. in vita.</note> the great, exceeded far <hi>Xerxes</hi> or <hi>Hanibal,</hi> he would be called the Sonne of <hi>Iupiter,</hi> refused his <hi>Macedonians</hi> maners &amp; lawes, &amp; would be apparelled in <hi>Persian</hi> garments, but <hi>faeli<g ref="char:EOLhyphen"/>citas impiorum instar puncti,</hi> whose life and felicity, in life is as britle glasse, these be they that thinke their heads touch the skye, and looke so hye, that often they fall downe to a ditch with <hi>Thales,</hi>
+                  <note place="margin">Iob. 20.</note> these be they of whom <hi>Iob</hi> saith, <hi>si caput nubis tetigerit, ca<g ref="char:EOLhyphen"/>dit tamen in sterquilinium.</hi>
+               </p>
+               <p>
+                  <hi>Tamberlane</hi> the Scithian,<note place="margin">The great Turke.</note> that had the great <hi>Turk</hi> in a cage, like a dogge vnder his table.</p>
+               <p>
+                  <hi>Saphor</hi> the Persian King, that had the Romaine Emperour as a block to mount on horseback.<note place="margin">Valeranus.</note>
+               </p>
+               <p>And <hi>Sesostris</hi> the Egyptian that had foure Kings to draw his Charriot, these made no more of men, then <hi>Menippus,</hi> who thought men to be moates in the moone, if their glasse had beene cleare, they should haue seene <hi>quam vita vitrea semper fortuna suit:</hi> these had not <hi>Linceus</hi> Spectacles on.</p>
+               <p>Had <hi>Marius</hi> kept his glasse cleare,<note place="margin">Marius glasse,</note> hauing beene seauen times Consul in Rome, hee might haue seene what good he did to Rome in the time of <hi>Sci<g ref="char:EOLhyphen"/>pio,</hi> and what harme he did to Rome, in the time of <hi>Silla.</hi>
+               </p>
+               <p>So might <hi>Silla</hi> after <hi>Marius,</hi> so might <hi>Caesar</hi> after <hi>Silla,</hi> after much good seruice to <hi>Rome,</hi> beeing Ro<g ref="char:EOLhyphen"/>mans
+<pb n="27" facs="tcp:176938:18"/>borne, and not after to harme Rome more then <hi>Hanibal</hi> a sworne enemy to Rome,<note place="margin">Fo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s &amp; friends to Rome.</note> but they wanted <hi>Linceus</hi> Spectacles.</p>
+               <p>For these warres were not iust warres, and ther<g ref="char:EOLhyphen"/>fore not necessarie <hi>illa pia arma</hi> (saith <hi>Tacitus</hi>) <hi>quibus nulla spes nisi in armis,</hi> it is the nature of all tygrish Tyrants to reioyce in blood, not waying <hi>caelestia nu mina sed terrestria nomina,</hi> esteeming not heauenly names, but terrestrial fame,<note place="margin">Tyrant, specta<g ref="char:EOLhyphen"/>cles.</note> &amp; to be called <hi>reges mag nireges maximi, et reges regum,</hi> great Kings, &amp; Kings of Kings, <hi>quorum nomina magis acerba quam diutur<g ref="char:EOLhyphen"/>na.</hi>
+               </p>
+               <p>These be like swift riuers, which run themselues quickly dry by too much vehement motions, and some such there be like standing pooles which do stinck and putrify for want of motion.</p>
+               <p>Hard by the Citie <hi>Hierapolis,</hi> in a valley there is a place called <hi>Os plutoniū</hi> like <hi>Auernus</hi> in <hi>Cāpania</hi> of Poets fained to be thentrāce vnto hell,<note place="margin">Eneas siluius.</note> both the places so putrified and so corrupted, that the fouls that flee ouer them, fall downe dead into them, &amp; the water that comes nigh stinkes, <hi>vndafluens sor<g ref="char:EOLhyphen"/>dibus terrae inficitur.</hi>
+               </p>
+               <p>The riuer of <hi>Hypanis</hi> in Scythia, beeing sweete &amp; pure of it selfe,<note place="margin">Plin. lib. 7. cap. 2.</note> yet when it toucheth any part of <hi>Exampius</hi> riuer that is better, it is also by the same infected &amp; made bitter, <hi>aliquid mali propter verum malum.</hi>
+               </p>
+               <p>But neither earth, water, nor aire is more infec<g ref="char:EOLhyphen"/>ted or corrupted one by another, then one man is
+<pb n="28" facs="tcp:176938:19"/>insected by another in qualities, in nature, in reli<g ref="char:EOLhyphen"/>gion and in saith, <hi>qui tanget picem &amp;c.</hi> and therfore good men must depart from the tabernacles of <hi>Da than,</hi> and <hi>Abiran.</hi>
+               </p>
+               <p>And therefore <hi>Homer</hi> the salt that seasoned all Greece,<note place="margin">Homer the salt of Greece.</note> &amp; fild all their stages and Theators, not only with comaedies of the quick, to make men ac<g ref="char:EOLhyphen"/>quainted of the differēce between vertue &amp; vice, but also with Tragedies of the dead to moue terror &amp; feare among men, sometimes brings <hi>Vlisses,</hi> som<g ref="char:EOLhyphen"/>time <hi>Pericles,</hi> and sometime brings in <hi>Agamemnon</hi> and <hi>Achilles</hi> to instruct Greece from daungers to come: by dangers past, renued &amp; plaid vpon their Theaters, as in the glasse of trauell is more menti<g ref="char:EOLhyphen"/>oned, he had <hi>Lynceus</hi> Spectacles, and saw the dis<g ref="char:EOLhyphen"/>cord of the Grecians before Greece was knowne,<note place="margin">Homer proper<g ref="char:EOLhyphen"/>ly named Me<g ref="char:EOLhyphen"/>lesigenes.</note> and yet <hi>Homer</hi> was blinde, so was <hi>Iacob,</hi> and yet <hi>Ia<g ref="char:EOLhyphen"/>cob</hi> could foresee, and prophesy the liues, and the succession of the twelue tribes.</p>
+            </div>
+            <div type="part">
+               <head>The plowmans glasse.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He greatest commanders &amp; Gouernours appointed of God to Iudge <hi>Israel</hi> as kings, Iudges, Priests and Prophets, were such poore men as <hi>Moi<g ref="char:EOLhyphen"/>ses, Saule, Dauid</hi> and the like, who were heardmen &amp; shep<g ref="char:EOLhyphen"/>herds.</p>
+               <pb n="29" facs="tcp:176938:19"/>
+               <p>In such poore men, God was euer pleased, euen from <hi>Noah,</hi> of whome God said, <hi>te iustum vidi,</hi>
+                  <note place="margin">Gen. 7.</note>
+                  <hi>A<g ref="char:EOLhyphen"/>braham</hi> a poore man the Sonne of an Image ma<g ref="char:EOLhyphen"/>ker, amongst the <hi>Chaldeans,</hi> whom God so blessed,<note place="margin">Gen. 12.</note> and in whose saith and seede, all the elect of God are blessed.</p>
+               <p>
+                  <hi>Iacob</hi> the Patriarch, went so poore a man ouer Iordan to Mesopotamia, but with <hi>pera &amp; baculo,</hi>
+                  <note place="margin">Gen. 28.</note> a staffe in his hand, and a wallet on his back.</p>
+               <p>These and such like became so great in Gods fa<g ref="char:EOLhyphen"/>uour, that sometimes with such victories, and som<g ref="char:EOLhyphen"/>times with such miracles, that all the Kings of the Earth trembled at the names of these heardmen &amp; shepheards, while they cryed to God, and called on God for helpe, their glasse flourished and conti<g ref="char:EOLhyphen"/>nued.</p>
+               <p>In all Countries, poore and verteous men, were the first founders, and the glory of their countries, as it should seeme both in <hi>Athens</hi> by the building of their famous Court <hi>Ariopagus,</hi>
+                  <note place="margin">Val. Max. lib. 4. cap. 4.</note> couered with straw, at the first, <hi>et per humilia tecta Capitolij, et ca<g ref="char:EOLhyphen"/>sem Romuli,</hi> and by the simple building of <hi>Romulus</hi> house the capitoll, and by such other poore buil<g ref="char:EOLhyphen"/>dings, that from the plough, poore husbandmen,<note place="margin">Plowmen.</note> as <hi>Cincinnatus</hi> was forced frō the plough to be Cō<g ref="char:EOLunhyphen"/>sul in Rome, and as the history saith, <hi>cur cesso nomi<g ref="char:EOLhyphen"/>nare bubulcos,</hi> called to be Magistrates and officers in Rome, and from the name of the poorest men, the greatest families in Rome descended as <hi>Publi<g ref="char:EOLhyphen"/>colae, fabricij, Scipiones, Emilij, Curij,</hi> and other such,<note place="margin">Alex. ab Alex. lib. 3. cap. 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note>
+                  <pb n="30" facs="tcp:176938:20"/>
+                  <hi>quibus paria robora virtus aluit.</hi>
+               </p>
+               <p>Then poore men were cried for, and meanes made to find out such poore wise men, as were sit to rule and to gouerne, <hi>Tunc fuit laudata paupertas,</hi> when they made two Temples in Rome,<note place="margin">Temples for pouertie made.</note> the one named <hi>Templum paupertatis,</hi> the other called <hi>Tem<g ref="char:EOLhyphen"/>plum pietatis.</hi>
+               </p>
+               <p>Then the Emperours of Rome had the Image of Fortune in their Galleries, of glasse, but it was made of such brittle glasse, that still it was bro<g ref="char:EOLhyphen"/>ken.</p>
+               <p>When <hi>Iulius Caesar</hi> and <hi>Mar.</hi>
+                  <note place="margin">Iu. Caesar.</note>
+                  <hi>Crassus</hi> were both at one time Censors in Rome, sweete Oyle and strange and forraine Oyntment were by lawe for<g ref="char:EOLhyphen"/>bidden in Rome to be sold, the example thereof came frō the Lacedemonians, who banished such daintinesse from Sparta.</p>
+               <p>Then <hi>Epaminondas</hi> flourished in Thebes,<note place="margin">Plut. in Aristid.</note> more by his pouertie then by his wealth: then <hi>Aristides</hi> might brag in Athens more of his iustice, then of his money: it so proued true, that at their deaths they were not able to marrie their daughters:<note place="margin">Prob. in vita.</note> then <hi>Fpaminondas</hi> said, <hi>Nunc vester Epaminondas nascitur quia sic moritur.</hi>
+               </p>
+               <p>That noble poore man <hi>Lamachus</hi> being elected to be chiefe Gouernor of Athens,<note place="margin">Lamachus.</note> was forced to borrow money of his friendes to buy him such a cloake as was fit for such a place.</p>
+               <p>It should seeme that pouertie was much accep<g ref="char:EOLhyphen"/>ted in those dayes, both in Rome and in Greece,
+<pb n="31" facs="tcp:176938:20"/>when <hi>Themistocles</hi> wanting money to performe some seruice to the Athenians,<note place="margin">Plu. in Themist.</note> tooke two poore Gods with him out of Athens, the God of neces<g ref="char:EOLhyphen"/>sitie and the God of Counsell, and went to the Isle of Andria, either to begge or to borrow some money for those two poore Gods sake, as the Iesu<g ref="char:EOLhyphen"/>its and Seminaries did sometime in England:<note place="margin">Begging Gods.</note> But the Magistrates of Andria answered <hi>Themistocles,</hi> that they had also the like two Gods in their owne Countrey, the God of pouertie, and the God of Impossibilitie, that did commaund them to the contrary.</p>
+               <p>But within a while after,<note place="margin">Pouertie.</note> poore men were cast off, and reiected both in Rome, in Athens, and in all Greece, when 30000. Archers came with <hi>Age<g ref="char:EOLhyphen"/>silaus</hi> from Persia to Greece,<note place="margin">Plut. in Agesil.</note> when the wealth of Asia was brought by <hi>Scipio</hi> to Rome, thē the Owle in Athens, the Snaile in Sparta, and the Oxe in Rome were turned into Elephants of India.</p>
+               <p>Then <hi>Templum paupertatis &amp; Templum pietatis</hi> were remoued from Rome, <hi>Tanquam noxia numina,</hi> and in their places were builded two rich &amp; state<g ref="char:EOLhyphen"/>ly Temples, <hi>Templum honoris, &amp; Templum fortunae:</hi>
+                  <note place="margin">Alex. ab Alex. lib. 3. cap. 11.</note> then began to rule in Rome the like 3. monsters that ruled in Athens, which was <hi>Populus, Noctua, &amp; Draco,</hi> and so in Rome, <hi>Forum, Senatus, &amp; Popu<g ref="char:EOLhyphen"/>lus</hi> then was nothing but Armes and armed men in Rome.</p>
+               <p>Then <hi>Lu. Equitius</hi> fained himselfe to be the sonne of <hi>Tib. Gracchus,</hi>
+                  <note place="margin">Oros. 5. cap. 17.</note> requested of the people to be <hi>Tri<g ref="char:EOLhyphen"/>bunus
+<pb n="32" facs="tcp:176938:21"/>plebis:</hi> for which sedition, though <hi>C. Marius</hi> in his sixt Consulship committed him to prison,<note place="margin">Appian. Ciui. 1.</note> and <hi>Metellus</hi> then Censor told the people, that <hi>Tib. Gracchus</hi> had but three sonnes, the one in Sardinia a souldior in pay, the other a young youth, then brought vp in Praeneste, and the third dyed in Rome.</p>
+               <p>Yet the people brake the prison,<note place="margin">Marius and Metellus.</note> furiously rushed in, and tooke <hi>Equitium</hi> vpon their shoulders, and threatened the Censor <hi>Metellus</hi> to death, &amp; made <hi>Marius</hi> the Consull to be quiet for that time.</p>
+               <p>
+                  <hi>M. Drusus</hi> in the like rage dealt with <hi>L. Philippus</hi> then Confull in Rome, <hi>Drusus</hi> being but Tribune of the people,<note place="margin">L. Flor. lib. 3. cap. 17.</note>
+                  <hi>Tribunus Plebis,</hi> drewe him violently into prison, and being sent for by the Senatours, to come before them into the Senate, answered, the Senatours should rather come before mee in my Courts in Hostilia, and Rostro, so <hi>Drusus</hi> esteemed not the state of the Senate, and the Senators obei<g ref="char:EOLhyphen"/>ed the words of <hi>Drusus: Tribunus despexit Senatum, Senatus paruit Tribuno: Nihil tam inaequale quam ae<g ref="char:EOLhyphen"/>qualitas:</hi> for as wealth and pouertie are two con<g ref="char:EOLhyphen"/>traries, yet are they two necessaries: for the one is so made for the other, that one cannot be without another.<note place="margin">Aug. de verb. diu serm. 25.</note>
+                  <hi>Pauperis est errare, diuitis est erogare, Dei est vtros{que} pensare.</hi>
+               </p>
+               <p>What equality was then in <hi>Antigonidas</hi> a poore Musician, to say, <hi>Cane mihi &amp; Musis,</hi> as well as <hi>The<g ref="char:EOLhyphen"/>mistocles, Cane mihi &amp; Marti.</hi> Many thinke too well of themselues, that their glasse cannot lōg endure.</p>
+               <pb n="33" facs="tcp:176938:21"/>
+               <p>As <hi>Alcestides</hi> a Tragicall Poet taunted <hi>Euripides,</hi> for that he was three dayes in making three ver<g ref="char:EOLhyphen"/>ses,<note place="margin">Valer. Max. lib. 3. cap. 7.</note> sithence my selfe (said <hi>Alcestides</hi>) haue made three hundred Verses in three dayes, <hi>Euripides</hi> an<g ref="char:EOLhyphen"/>swered him, and said, <hi>Tui tantum in triduum sunt mei autem in omne tempus,</hi> Thy three hundred Verses are but for three dayes, mine are for all times.</p>
+               <p>Like the Foxe that obiected to the Lion,<note place="margin">Gell. lib. 13. ca. 7</note> that he brought but one whelpe at once, and I bring many: yea, said the Lionesse, but that one shall be a Lion which I beare.</p>
+               <p>But it is otherwise with all men, <hi>Nunc cygnus qui modo coruus erat.</hi>
+               </p>
+               <p>But to returne againe to the poore mans glasse,<note place="margin">Flor. lib. 2. ca. 28</note> which excuse themselues, saying, Necessitie hath no law, sometime truly spoken: but what necessi<g ref="char:EOLhyphen"/>tie had the poore souldiors at besieging of Nu<g ref="char:EOLhyphen"/>mantia by <hi>Scipio,</hi>
+                  <note place="margin">Iamnies.</note> to fill their bosomes with dead mens flesh, to liue like beastes, when they might die like men, beeing by <hi>Scipio</hi> offered martiall pardon, like the Iamnites, who were found with their Idols and Images in their bosomes, after they were slaine.</p>
+               <p>Or at the siege of the Caliguritans by <hi>Pompey</hi> the great in Spaine,<note place="margin">Oros. 5. cap. 25.</note> after all their beasts and hor<g ref="char:EOLhyphen"/>ses were slaine to satisfie hunger, after to kill their wiues and children being aliue, to shew their loue and fidelitie to <hi>Sertorius</hi> their Generall beeing dead. These made more of their glasses, thē of their
+<pb n="34" facs="tcp:176938:22"/>wiues, or of their children.</p>
+               <p>Rich men are alwaies in necessitie,<note place="margin">Kich men are alwaies in ne<g ref="char:EOLhyphen"/>cessitie.</note> &amp; haue great need of money, for they want what they haue, yet not ynough, though they haue too much, althogh they haue more then doth them good, vnlesse they make such friends of wicked Mammon, as <hi>Daniel</hi> counselled <hi>Nabuchadnezzar</hi> to giue almes, and to feed poore mens cries, or as <hi>Zacheus</hi> said to Christ, Halfe my wealth and substance I giue to the poor, but some of them will receiue with two handes, but haue not one to giue,<note place="margin">Moloches Che<g ref="char:EOLunhyphen"/>marius.</note> like the Priestes of Moloch, called <hi>Chemarims,</hi> euer reaching hands to take.</p>
+               <p>
+                  <hi>Septimelius,</hi>
+                  <note place="margin">Cie. de Orat.</note> a couetous Romane, slew his fami<g ref="char:EOLhyphen"/>liar friend <hi>Caius Gracchus,</hi> and carried his head through Rome on a poule to <hi>Opimius</hi> the Confull, who promised any man that would bring him <hi>Crassus</hi> head,<note place="margin">Septime lius promise.</note> the weight of <hi>Crassus</hi> head in golde, <hi>Septimelius</hi> therefore melted Lead into <hi>Gracchus</hi> head, to make it the more heauie, to get the more gold thereby.</p>
+               <p>So <hi>Cyrus</hi> head, &amp; so <hi>Crassus</hi> head, the one drownd in blood, and the other fild with melted gold.</p>
+               <p>Amongst these couetous Captaines <hi>Ptolome</hi> go<g ref="char:EOLhyphen"/>uernor of Cypres,<note place="margin">Valer. Max. lib. 9. cap. 5.</note> most ranck with thē in the first front, who perceiuing his ship to be full fraugh<g ref="char:EOLhyphen"/>ted with gold and siluer, and his soldiers in great danger to perish,<note place="margin">A most wicked man.</note> made meanes to get his gold and siluer to Cypres, and after caused the ship and all the soldiers to be sunck, to defraude them of their
+<pb n="35" facs="tcp:176938:22"/>pay and booties, of such doth <hi>Iob</hi> say,<note place="margin">Iob 20.</note>
+                  <hi>diuitias quas deuorarunt euomuerint.</hi>
+               </p>
+               <p>But these greedy Captaines will answere as <hi>Di<g ref="char:EOLhyphen"/>onisius</hi> the Tyrant of <hi>Syracusa,</hi> who beeing accused of a Philosopher, that he spoyled and robbed, not onely men, but also committed sacriledge against the Gods, said merrily,<note place="margin">Cic. de na<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>or. lib. 3.</note> I tooke <hi>Aesculapius</hi> Gol<g ref="char:EOLhyphen"/>den beard, because his father <hi>Apollo</hi> had none, I tooke <hi>Iupiters</hi> golden cloake, because it was too cold in winter, and put a cloth cloake on <hi>Iupiter</hi> to keepe him warme.</p>
+               <p>And as for golden crownes and golden basons,<note place="margin">Elian de va. Hist. lib. 1.</note> which the Gods seemed with reaching forth their hands saying, <hi>Accepi non Auferrebam.</hi>
+               </p>
+               <p>So many like <hi>Dyonisius,</hi> will take poore mens houses ouer their heads, and their lands, &amp; some<g ref="char:EOLhyphen"/>times their liues to get their lands, and will answer scoffingly as <hi>Dyonisius</hi> did, so that the poore haue euery where cause to crie on such as <hi>Dyonisius</hi> was.</p>
+               <p>Many like <hi>Achab</hi> that so sought the poore Pro<g ref="char:EOLhyphen"/>phet <hi>Elias,</hi>
+                  <note place="margin">3. Reg. 19.</note> that <hi>Elias</hi> was weary of his life for feare of <hi>Iezabel,</hi> and yet <hi>Elias</hi> could command fire and water from Heauen, the one to burne <hi>Achabs</hi> soldi<g ref="char:EOLhyphen"/>ers, the other to wet the earth with raine,<note place="margin">4. Reg. cap. 2.</note> which had beene long dry and barren for want of rayne.</p>
+               <p>In the old Testament, the most part of the <hi>Pa<g ref="char:EOLhyphen"/>triarks</hi> were poore heardmen and shepbeards: In the new Testament, the most part of the Apostles were poore fisher men, whose cryes was alwaies
+<pb n="36" facs="tcp:176938:23"/>hard, and whose request was graunted to do won<g ref="char:EOLhyphen"/>ders and miracles. <hi>Tunc illa viguit pia paupertas.</hi>
+               </p>
+               <p>And so the first poore men in Rome were sent for,<note place="margin">Plin. 18. cap. 3. Cic. pro. Ross.</note> some from plowing, some from sowing, and some from such like husbādries, that <hi>At. Regulus</hi> was sent to the first <hi>African</hi> war in Carthage, Q. <hi>Cincinnatus</hi> sent for to be Conful in Rome,<note place="margin">Liui. 3.</note> &amp; M. <hi>Scaurus</hi> to be a Dictator of all the Romane Armies, so that these poore men, <hi>qui vastissimas glebas cum sudore pessun<g ref="char:EOLhyphen"/>dabant,</hi> that from their goades, their yoakes, and their oxen became to be generalls, Consuls, and Dictaters in Rome. <hi>tunc fuit illalaeta paupertas.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The gratefull glasse.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He Prophet reprehending the vn<g ref="char:EOLhyphen"/>gratefull Iewes, to be more forget<g ref="char:EOLhyphen"/>full of their God then Brasse, for the oxe knoweth his Masters crib, and the Asse knoweth his Mai<g ref="char:EOLhyphen"/>sters stable.</p>
+               <p>The Scripture is full of such vngratefull exam<g ref="char:EOLhyphen"/>ples, <hi>Ioseph</hi> that by his great wisedome saued all Aegipt from famine and diuerse plagues, how soone did Egypt not only forget the name and po<g ref="char:EOLhyphen"/>steritie of <hi>Ioseph,</hi> but also requited the good deserts of <hi>Ioseph,</hi>
+                  <note place="margin">Exod. 12.</note> vpon his children, and childrens childrē, with killing and drowning, that the Egiptians be<g ref="char:EOLhyphen"/>came such Tyrants to <hi>Israel,</hi> as <hi>Israel</hi> was vngrate<g ref="char:EOLhyphen"/>full to God.</p>
+               <pb n="37" facs="tcp:176938:23"/>
+               <p>Many giue faire words and promise much:<note place="margin">Exod. 12.</note> but they performe as little, as <hi>Pharaos</hi> Butler did to <hi>Ioseph,</hi> and yet I would that some would doe as much, for he after long imprisonment of <hi>Ioseph</hi> by <hi>Putiphar</hi> told <hi>Pharao</hi> what <hi>Ioseph</hi> did for him when he was in prison with <hi>Ioseph.</hi>
+               </p>
+               <p>Often Leapers which Christ healed,<note place="margin">Luck. 17. Leapers. A Caueat to vngratefulnes.</note> there came but one to giue thankes vnto Christ, yet Christ asked for the other nine, a caueat to such vngrate<g ref="char:EOLhyphen"/>full men, as forget good turnes.</p>
+               <p>In <hi>Africa,</hi> there are many huge monsters, and in India many strange beasts, I may well so call vn<g ref="char:EOLhyphen"/>gratefull men beasts, for that the Prophet cals thē worse then beasts, to be vngratefull men.</p>
+               <p>The <hi>Macedonians</hi> esteemed vngratefull men, of most vnnaturall people to forget the benefits of friends,<note place="margin">Vngratitude most hated in Athens, and in Persia.</note> against whome they haue actions by the lawes of Macedon, and so thought they in Athens, those vnworthy to liue, that liued against the lawe of nature, to haue one hand to take, as <hi>Demosthenes</hi> said, and not an other to giue.</p>
+               <p>Amongst the <hi>Persians,</hi> vngratefull men should not scape free from punishment, nor yet with<g ref="char:EOLhyphen"/>out markes or notes of infamy, if they were found to be vngratefull, and vnmindful to requite the be<g ref="char:EOLhyphen"/>nefits of their friends.</p>
+               <p>And therefore the <hi>Lacedemonia<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</hi> had a Temple in the midst of their market place,<note place="margin">The thrace Graces.</note> where the Ima<g ref="char:EOLhyphen"/>ges of the three graces were set vp to put vngrate<g ref="char:EOLhyphen"/>full men in memory, of requitall with thankes.</p>
+               <pb n="38" facs="tcp:176938:24"/>
+               <p>The first had a Rose in her band, to signify the sweetnesse of benefits, the second held a braunch of myrrh, to signifie how thankfull men should be for benefits done, and the third signified that it should endure and continue among friends, and that thereby they might not excuse their vngrati<g ref="char:EOLhyphen"/>tude, for that the law of nature saith, <hi>qui accipit be<g ref="char:EOLhyphen"/>neficium, debitor maneat.</hi>
+               </p>
+               <p>But in such popular state of common wealth, where common people rule and gouerne, there is alwaies some contentions and diuisions, as in the time of <hi>Samuel,</hi> who whē he iudged <hi>Israel</hi> well and wisely, yet the people would haue a King, &amp; hauing a good King, yet vpon any disliking, and diuision, some followed <hi>Dauid</hi> the good King,<note place="margin">2. Reg. cap. 19. Sheba the Tray<g ref="char:EOLunhyphen"/>tor.</note> and some fol<g ref="char:EOLhyphen"/>lowed <hi>Sheba</hi> the Traytor.</p>
+               <p>Who might doe more in Greece then <hi>Dionisius</hi> the Tyrant,<note place="margin">Scipios thanks banishment.</note> or more in Rome then <hi>Catiline</hi> the re<g ref="char:EOLhyphen"/>bell: but <hi>Scipio,</hi> that well deserued of Rome, and saued Rome from Africans and Carthaginians, and hunted <hi>Haniball</hi> out of Italy to Carthage, had no other thankes but banishment.</p>
+               <p>
+                  <hi>Furius Camillus,</hi> named <hi>Vindex Romanae Maiesta<g ref="char:EOLhyphen"/>tis,</hi> who had bin fiue times Dictator in Rome, and saued Rome so many times,<note place="margin">Fu. Camillus.</note> yet could he not be sa<g ref="char:EOLhyphen"/>ued in Rome, that vngratefull Citie to such grate<g ref="char:EOLhyphen"/>full men: And so might <hi>Scipio African,</hi> the latter, after he had subdued Carthage and Numantia, he found in Rome,<note place="margin">Murther. Murtherers not found.</note> yea, in his owne house <hi>Raptorem mortis inuenit, mortis punitorem non reperit,</hi> the mur<g ref="char:EOLhyphen"/>ther
+<pb n="39" facs="tcp:176938:24"/>was found, but not the murtherer.</p>
+               <p>So the like ingratitude was as well in Greece as in Rome: for who was euer borne amongst the Lacedemonians so syncere, so gratefull, and so lo<g ref="char:EOLhyphen"/>uing to his Countrey, as <hi>Lycurgus,</hi>
+                  <note place="margin">Plut. in Lycur.</note> of whom <hi>Apollo</hi> doubted, whether <hi>Lycurgus</hi> was <hi>e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>numero Deorum vel hominum,</hi> for his great loue and good lawes in Sparta, yet banished from Sparta.</p>
+               <p>So <hi>Solon</hi> for the like lawes in Athens, enioyed the like fortune as <hi>Licurgus.</hi>
+                  <note place="margin">in Solon.</note>
+               </p>
+               <p>And so <hi>Theseus,</hi> the first sounder and Law setter in Athens, the reuenger, and onely Champion of the Athenians, was put to exile out of A<g ref="char:EOLhyphen"/>thens.</p>
+               <p>What should I say of <hi>Phocion,</hi> surnamed the good, for his good seruice to his Countrey,<note place="margin">Iustin. 2.</note> and of <hi>Aristides</hi> for his iustice in his Countrey, surnamed <hi>Iustus,</hi> yet might they not be buried in their coun<g ref="char:EOLhyphen"/>trey, so vngratefull was Greece to Greekes.<note place="margin">Plut. in vita Plut. in vita. Themist.</note>
+               </p>
+               <p>If it were asked where these great Victors and Conquerors in the battels of Marathon, Salami<g ref="char:EOLhyphen"/>na, and Artemisium were buried, that defended Greece from ruine and often destructions, it may be well answered, that <hi>Theseus</hi> bones lie in a little rocke, in the Isle Scyros, <hi>Themistocles</hi> in Magnesia, a city in Persia, <hi>Milciades</hi> at Athens in prisō, his va<g ref="char:EOLhyphen"/>liant &amp; noble son <hi>Cymon</hi> had his fathers patrimo<g ref="char:EOLhyphen"/>ny <hi>Carcerem &amp; catenas:</hi> the rest of these noble &amp; valiant captains, <hi>Cum dispersis cineribus,</hi> into sundry places, being banished, were buried out of Greece</p>
+               <pb n="40" facs="tcp:176938:25"/>
+               <p>All these might haue said of vngratefull Greece as <hi>Scipio</hi> and others spake of vngratefull Rome:<note place="margin">The saying of Scipio.</note>
+                  <hi>O ingrata patria, non habets ossa mea:</hi> for Rome was neuer gratefull to Romanes, nor Greece to Greci<g ref="char:EOLhyphen"/>ans, but all other Kingdomes and Countries most gratefull and liberall.</p>
+               <p>So <hi>Attalus</hi> King of Asia found the Romanes li<g ref="char:EOLhyphen"/>berall,<note place="margin">Plin. lib. 33.</note> for that the Romans gaue all the kingdome of Asia to <hi>Attalus,</hi> and <hi>Attalus</hi> againe at his death bequeathed all Asia vnto the Romanes by his Will.</p>
+               <p>In this I know not which to commend: <hi>Masinissa,</hi> King of Numidia, who (for the like loue and libe<g ref="char:EOLhyphen"/>ralitie of <hi>Scipio</hi> &amp; of the Romans) did as king <hi>Atta<g ref="char:EOLhyphen"/>lus</hi> at his death,<note place="margin">Plin. lib. 33. cap 11.</note> hauing 54 sonnes, deliuered the kingdome of Numidia to the full power &amp; autho<g ref="char:EOLhyphen"/>rity of <hi>Scipio Emylianus.</hi>
+               </p>
+               <p>
+                  <hi>Sylosontis,</hi> Gouernour of <hi>Samus,</hi> who hauing but one most rich cloak,<note place="margin">Herodot. lib. 3</note> whom <hi>Darius</hi> (as yet a pri<g ref="char:EOLhyphen"/>uate man) much commended, which <hi>Sylosontis</hi> most liberally gaue to <hi>Darius,</hi> for the which <hi>Da<g ref="char:EOLhyphen"/>rius</hi> rewarded <hi>Sylosontis</hi> both with the towne, and whole Ile of Samos.<note place="margin">Elian. hist. 4.</note>
+               </p>
+               <p>But in this most vngratefull age,<note place="margin">Ios. 6.</note> neither loue, benefits, nor seruice is recompenced, how carefull then was <hi>Iosua</hi> to requite the benefits of the harlot <hi>Rahab,</hi> in hiding the Hebrew souldiers from the King of Ierico, how ready was <hi>Iethro</hi> the Madia<g ref="char:EOLhyphen"/>nite,<note place="margin">Exod. 2.</note> to recōpence <hi>Moses</hi> that defended his daugh<g ref="char:EOLhyphen"/>ters from the shepheards, and made their cattle to drinke, to make <hi>Moses</hi> sit at his table, and giue his
+<pb n="41" facs="tcp:176938:25"/>daughter <hi>Zophora</hi> in mariage to <hi>Moyses.</hi>
+               </p>
+               <p>Euen that wicked King <hi>Saule</hi> spared <hi>Cyneus</hi> life,<note place="margin">Saule. 1. Reg. cap. 15. Luk. 7</note> because hee loued the children of Israel, and the Elders of Israel spake to Christ for the Centurion, saying, <hi>diligit gentem nostram:</hi> And euery where <hi>Paule</hi> gaue thankes to God and to men, for bene<g ref="char:EOLhyphen"/>fits receiued of God and men.<note place="margin">Gal. 4</note>
+               </p>
+               <p>An vngratefull man is not worthy to liue among men, And (as I said before) actions in Athens, and in Macedonia, and in Persia, punishment.</p>
+               <p>In Rome,<note place="margin">Actions in A<g ref="char:EOLhyphen"/>thens, in Ma<g ref="char:EOLhyphen"/>cedonia, and in Persia.</note> an vngratefull man being bound and made free, if he would not be gratefull to the Pa<g ref="char:EOLhyphen"/>trone, the Master, or to the friend that made him free, they might bring him into the Court, and say, <hi>Quia liber esse nescis, cibi esto seruus,</hi> &amp; shold lose his Freedome.</p>
+               <p>Among the Romanes,<note place="margin">The lawe in Rome.</note> if any Citizen of Rome had three children well brought vp in vertue and learning, to serue their Countrey, if their parents were poore and bondmen, they should haue their liberty and be made free in Rome.</p>
+               <p>Among the Persians their Law was like the Ro<g ref="char:EOLhyphen"/>manes,<note place="margin">The Persians.</note> that the father of such children should be relieued with annuall pentions,<note place="margin">Law against vngrateful men</note> and that the kings of Persia are bound to giue a piece of gold to eue<g ref="char:EOLhyphen"/>ry woman with child, in euery towne or citywhere the Kings of Persia ride through.</p>
+               <p>Among the Lacedemonians, if any poore man had foure children brought vp in military disci<g ref="char:EOLhyphen"/>pline according to <hi>Lycurgus</hi> law,<note place="margin">the Lacedemo<g ref="char:EOLhyphen"/>mans.</note> the father should
+<pb n="42" facs="tcp:176938:26"/>haue immunitie from Taxes and Subsidies, and be made free from all militarie charge.</p>
+               <p>Then was Pouertie releeued, Artes nourished, Learning esteemed, and Vertue flourished as they say <hi>in vacua Simonidis as ca.</hi>
+                  <note place="margin">The liberality of Alexander and Traian.</note>
+               </p>
+               <p>When <hi>Alexander</hi> made as many youths in Per<g ref="char:EOLhyphen"/>sia, to bee instructed in the Greeke tongue and in militarie discipline, as the Emperour <hi>Traian</hi> did in Rome, and in all Italie at his owne charge caused 5000 youths to be instructed in all know<g ref="char:EOLhyphen"/>ledge and learning, for the vse and profit of their Countrey.</p>
+               <p>When <hi>Cyrus</hi> instructed <hi>Croesus</hi> by his owne ex<g ref="char:EOLhyphen"/>ample,<note place="margin">Cyrus instru<g ref="char:EOLhyphen"/>ctions to Croe<g ref="char:EOLhyphen"/>sus.</note> that those friends whom he made rich, <hi>Cy<g ref="char:EOLhyphen"/>rus</hi> thought them to be his iewels and chiefe trea<g ref="char:EOLhyphen"/>sures in store.</p>
+               <p>Then <hi>Caesar</hi> said, that he had enriched himselfe when hee had done good,<note place="margin">The saying of Caesar.</note>
+                  <hi>aut officijs, vel bene<g ref="char:EOLhyphen"/>ficijs.</hi>
+               </p>
+               <p>Then <hi>Artaxerxes</hi> accepted a dishfull of water at poore <hi>Sinaetes</hi> hand,<note place="margin">Artaxerxes liberalitie<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> out of the Riuer Syrus, for <hi>Cyrus</hi> sake, with the reward of 1000 Persian coyne of siluer.</p>
+               <p>Then was learning and learned men esteemed,<note place="margin">Cic. pro Archia</note> when <hi>Scipio African</hi> caused the Image of <hi>Enneus</hi> to be made in <hi>honorem Corneliae gentis,</hi> when <hi>Pompey</hi> the Great gaue to <hi>Theophanes</hi> for a small deale of writing, in aduancing <hi>Pompeyes</hi> greatnes, a whole Citie.</p>
+               <pb n="43" facs="tcp:176938:26"/>
+               <p>What should I name the great <hi>Alexander,</hi>
+                  <note place="margin">Cic. in Bruto. Cic. Tuskit. Plut. in vita. Cic. pro Arch.</note> that gaue 800 Talents to <hi>Aristotle,</hi> for writing of one Booke <hi>De Natura animalium,</hi> which <hi>Alexander</hi> was as well able to giue, as <hi>Aristotle</hi> worthy to re<g ref="char:EOLhyphen"/>ceiue.</p>
+               <p>When <hi>D. Brutus</hi> so esteemed few verses of <hi>Acti<g ref="char:EOLhyphen"/>us</hi> the Poet,<note place="margin">Cic. Tusc.</note> that he caused them to be set vp in <hi>a<g ref="char:EOLhyphen"/>ditu templorum,</hi> to honour <hi>Actius</hi> verses, as well as to aduance thereby his owne fame.</p>
+               <p>And yet in these our daies, meaner men would be so praised, without any liberalitie, <hi>Qui suas effi<g ref="char:EOLhyphen"/>gies cum Phidia in Clipeo Mineruae includerent,</hi> not as <hi>Themistocles,</hi> being asked,<note place="margin">The answerē of Themistocles.</note> whom he would haue to set foorth his noble victories and worthie prayse? euen he (said <hi>Themistocles</hi>) that can best aduaunce any name and fame,<note place="margin">Many like the Fox would be a lyon by craft, &amp; many would be made great.</note>
+                  <hi>A quo artes me canentur optimae.</hi>
+               </p>
+               <p>But <hi>Antigenidas,</hi> who wouldelayme <hi>Themisto<g ref="char:EOLhyphen"/>cles</hi> prowesse and fame by Musicke.</p>
+               <p>Let some men write as many bookes as <hi>Chrysip<g ref="char:EOLhyphen"/>pus</hi> wrot Oracles, vnlesse some such <hi>Mecaenas</hi> were in Court, as was with <hi>Augustus</hi> the Emperor, they should bee rewarded but as <hi>Crates</hi> the Theban hath set downe in his <hi>Ephemerides, Triobulum Phi<g ref="char:EOLhyphen"/>losopho, fumum Consiliario,</hi>
+                  <note place="margin">Flatterers well rewarded.</note> for bookes are <hi>mortui &amp; muti magistri,</hi> to induce any gratitude: And yet in the selfe same <hi>Ephemerides, Decem Talenta adu<g ref="char:EOLhyphen"/>latori.</hi>
+               </p>
+               <p>In Courts flattery is eloquence,<note place="margin">Flattery is Elo<g ref="char:EOLhyphen"/>quence.</note> and such elo<g ref="char:EOLhyphen"/>quence as <hi>Pisistratus</hi> vsed to the Athenians, that if
+<pb n="44" facs="tcp:176938:27"/>
+                  <hi>Solon</hi> had not contraried his eloquence, <hi>Pisistratu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> had brought the Athenians from liberty to serui<g ref="char:EOLhyphen"/>tude,<note place="margin">
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>. 10. lib. 1</note> at which time an old man in Athens said, Let all men beware of <hi>Pisistratus</hi> eloquence,<note place="margin">An old mans saying.</note> which in Courts is flattery, <hi>Lubrica via &amp; vita in Aula ver<g ref="char:EOLhyphen"/>santis.</hi>
+               </p>
+               <p>In the time that <hi>Pub. Volumnius</hi> was Consull in Rome,<note place="margin">plin. lib. 2. cap. 56.</note>
+                  <hi>Plinie</hi> writes, that infinit pieces of flesh fell from the clouds vpon the earth, like as the Quailes that <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ell to the murmuring Iewes in the wildernes: of which, the people gathered some, the sowles of the ayre deuoured some, and some remayned on the earth for certaine daies, without euill smell, or colour altered.</p>
+               <p>I thinke now otherwise,<note place="margin">Diogenes an<g ref="char:EOLhyphen"/>swere to a que<g ref="char:EOLhyphen"/>stion.</note> that as the Prophet then threatened, that the heauens should be turned into brasse, &amp; the earth to yron, <hi>Coelum anneum &amp; terra ferrea,</hi> where no liberality, no gratitude, nor thanks scant giuen, that if it were demaunded, as one did to <hi>Diogenes,</hi> on whom should good turnes &amp; bene<g ref="char:EOLhyphen"/>fits be bestowed, it might bee answered as <hi>Diogenes</hi> did, not to children, for that they would forget to requite benefits when they were men: not to olde mē, for that they might die before they did requite benefits: nor to poore men, for that they will neuer be able to requite benefits: nor to any man, but to such as can presently regratifie you.<note place="margin">Cic. de opt. gen</note>
+               </p>
+               <p>It was not so in Athens, for he that should do good to his countrey, or be any was beneficial, that man should be crowned with two Oliue branches, to a<g ref="char:EOLhyphen"/>nimate
+<pb n="45" facs="tcp:176938:27"/>others to vertuous exployts, <hi>vberimū vir<g ref="char:EOLhyphen"/>tutis alimentum honos,</hi> so was <hi>Pericles</hi> the first man crowned in Athens, by the lawe of the Iudges A<g ref="char:EOLhyphen"/>reopagits, which long continued after <hi>Pericles</hi> in Athens for such as <hi>Pericles</hi> was, that Athens was gouerned by his directions and Consuls 40 years.</p>
+               <p>Many in Courts can giue good counsell,<note place="margin">3. Reg. 22</note> and few can take it, King <hi>Zedechias</hi> &amp; his nobles, might haue taken counsell of <hi>Ieremie, Achab</hi> might haue taken counsell of the Prophet <hi>Elias,</hi> of <hi>Micheas,</hi> as well as of <hi>Zedechias,</hi> and of 400 other false flatte<g ref="char:EOLhyphen"/>ring Prophets: but their flattering glasses were all broken at the brooke <hi>Kyson.</hi>
+               </p>
+               <p>Their wanted neuer a number of flatterers in Courts, that would <hi>honesta at{que} inhonesta aequè Lau<g ref="char:EOLhyphen"/>dare,</hi>
+                  <note place="margin">Tacit. 3. anui.</note> wayting and tending hard in Court to haue time to whisper in Princes and nobles mens eares,<note place="margin">Ad Q. Fratrem Cacit t. an.</note>
+                  <hi>qui insusurrantin aures Principum,</hi> as <hi>Cicero</hi> saith.</p>
+               <p>Of such <hi>Tiberius</hi> the Emperour said, they should take great care in Court,<note place="margin">The councell of Tiberius.</note> to shunne chiefly two things, danger and shame, <hi>ab optimis periculum, a<g ref="char:EOLhyphen"/>pessimis dedecus.</hi>
+               </p>
+               <p>The flint stone is harde, and it was cut in two, <hi>Actius</hi> Rasor, <hi>nouacula Neuei,</hi> the Adamant is harder,<note place="margin">Actius <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</note> and yet disolued <hi>Sanguine hirci,</hi> and are the harts of men harder then flint and Adamant, that cannot be mollified <hi>Sanguine Christi,</hi> the stone of <hi>Sion,</hi> of which the Prophet saith, <hi>Ego fundamentum posui in Sion lapidem,</hi> this is the stone that we must build v<g ref="char:EOLhyphen"/>pon, this is <hi>lapis angularis,</hi> which the builders reie<g ref="char:EOLhyphen"/>cted,
+<pb n="46" facs="tcp:176938:28"/>and this is that great mountaine, <hi>quem Deus contriuit in puluerem mortis,</hi>
+                  <note place="margin">Dan. 2.4.5.</note> which <hi>Daniel</hi> saw in his vision, he is that stone which <hi>Barnard</hi> speaketh of, <hi>cie quo sonat tinitus pietatis, et ebullit oleum charitatis,</hi>
+               </p>
+               <p>Iob biddeth man aske the beasts what God hath done for man,<note place="margin">Iob. 1.2. How more thankfull all creatures are to God then man.</note> and the beasts shall teach you, and aske the foules of the aire, and they shall tell you, Speake to the earth and it shall shew you, or the fish of the sea, and they shall declare vnto you how vngratefull man is to God for all his goodnesse to man, and where man to man should be so gratefull that it might be said, <hi>homo homini Deus,</hi> and not as is euery where seene and proued, <hi>homo homini dae<g ref="char:EOLhyphen"/>mon.</hi>
+               </p>
+               <p>And therefore the crie of all creatures of the world is vpon Man: for that man is vnthankfull to God,<note place="margin">The cry of all creatures vpon man.</note> for the which the heauens cry out and saie, I giue thee light in the day, to walke &amp; to see what thou dost, &amp; I giue thee darknesse at night, to take thy rest and sleepe, and therefore <hi>accipe beneficium.</hi>
+               </p>
+               <p>The Ayre cryeth out on man,<note place="margin">The Aire.</note> and saith, <hi>vita<g ref="char:EOLhyphen"/>lem tibi praebeo</hi> to liue, and to take thy breath, and all kinde of foules to feede thee,<note place="margin">The water.</note> the water cryeth out and saith, I serue thee with all kinde of fish: for thy vse to eate.</p>
+               <p>The earth cryeth out on man,<note place="margin">The earth.</note> and saith, I bare thee first in my bellie, and now I beare thee on my back, and I feede thee with bread, wine, and with all kinde of flesh and fruits, and therfore <hi>redde de<g ref="char:EOLhyphen"/>bitum beneficium.</hi>
+               </p>
+               <pb n="47" facs="tcp:176938:28"/>
+               <p>Consider man of the crie of these creatures,<note place="margin">The cry of heauen.</note> the crie of Heauen, of the earth, of the water,<note place="margin">Hugo lib. cap. 3 de arca.</note> of the aire, and of the fire, is but <hi>vox famulantis,</hi> the voice of seruants.</p>
+               <p>The second cry is <hi>vox admonentis,</hi>
+                  <note place="margin">The cry of the world.</note> the cry of the world to man, and saith to man, remember man how much God loued thee, <hi>quipropter te, fecit me,</hi> to serue man, that man might serue God.</p>
+               <p>The third cry is <hi>vox comburentis,</hi>
+                  <note place="margin">The cry of fire.</note> the cry of fire to man, <hi>A me combureris,</hi> thou man shalt be burned of me, the water cryeth to man <hi>A mesubmergeris,</hi> in me man, thou shalt be drowned.</p>
+               <p>The earth and hell cry, <hi>A nobis deglutieris,</hi>
+                  <note place="margin">The cry of hell</note> thou man shalt be swallowed and drowned of vs, &amp; ther fore Iudge <hi>supplicium.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The Bloody glasse.</head>
+               <p>
+                  <seg rend="decorInit">N</seg>Ow to the cry of blood, which is the greatest and lowdest crie: for that it is hard out of earth into he<g ref="char:EOLhyphen"/>uen, for God testified so himselfe frō the bloud of <hi>Abel,</hi> who did <hi>E<g ref="char:EOLhyphen"/>dere clamorem ad coelum,</hi> that ascen<g ref="char:EOLhyphen"/>ded vp to heauen to complaine against <hi>Caine,</hi> and from the blood of <hi>Abel</hi> to the bloud of <hi>Zacharia</hi> the priest, <hi>sanguis edit clamorem.</hi>
+               </p>
+               <p>The blood of <hi>Stephen</hi> the first Martyr, cryed to heauen for Iustice against the wicked Iewes: for this sinne is so hatefull to God, that though God
+<pb n="48" facs="tcp:176938:29"/>loued <hi>Dauid</hi> well, yet God for bad <hi>Dauid</hi> to build him a temple,<note place="margin">Dauid</note>
+                  <hi>quia vir sanguinis fuit,</hi> because <hi>Dauid</hi> was a man of bloud.</p>
+               <p>I haue in my bookes of consent of time, and Stratagems of Ierusalem and the histories of the Iewes &amp; Romans, sufficiently proued with exam<g ref="char:EOLhyphen"/>ples for that <hi>mouent magis exempla quam verba.</hi>
+               </p>
+               <p>And therefore Christ himselfe crieth out with a watch word vnto vs, <hi>vigilate &amp; orate</hi> for that foules in the ayre, and stones in the street will be<g ref="char:EOLhyphen"/>wraye bloud: Augustine also notes some kinde of men in whom there is nothing but <hi>Cupiditas nocen<g ref="char:EOLhyphen"/>dicrudelitas vlciscendi.</hi>
+                  <note place="margin">Aug. lib. 22. cap. 74.</note>
+               </p>
+               <p>If <hi>Craesus</hi> the only wealthie man of Rome had beene so contented, or by <hi>Actius</hi> Tribune of the people perswaded to stay better as a Consull of Rome then rashly to go to the Parthians where he heard a voice of on which cryed figges of Caunea, which as the historie saieth,<note place="margin">Terrible voi<g ref="char:EOLhyphen"/>ces.</note> prognosticated his death in Parthia, such a voice hearde <hi>Amilcar.</hi>
+               </p>
+               <p>The voice and crie of bloud was heard in Ie<g ref="char:EOLhyphen"/>rusalem <hi>Migremus hinc</hi> a while before the destuc<g ref="char:EOLhyphen"/>tion of the Cittie,<note place="margin">Ioseph. lib. 7. cap. 12.</note> &amp; againe another voice before that time, <hi>Vae ciuitati vae &amp; populo.</hi>
+               </p>
+               <p>This crie was more terrible in Hierusalem then the crie of the Romane Centurian in Rome <hi>Hic manebimus optime</hi> which stayed all the citizens of Rome in Rome,<note place="margin">A crie in Ieru<g ref="char:EOLhyphen"/>salem.</note> &amp; would haue fled for feare of the Gaules, to Veios.</p>
+               <pb n="49" facs="tcp:176938:29"/>
+               <p>The cry and voice of <hi>Samuels</hi> shadow to <hi>Phaeto<g ref="char:EOLhyphen"/>nissa</hi> at Endor, that <hi>Saule</hi> should die <hi>Gilboa,</hi>
+                  <note place="margin">3. Reg. 21.</note> this voice was as sweete to <hi>Saule,</hi> as the voice of <hi>Elias</hi> to <hi>Achab,</hi> that dogs should lick his bloud in <hi>Israel,</hi> in theselse same place, where dogges lickt <hi>Naboths</hi> blood.</p>
+               <p>The cry of a voice, to <hi>Augustus</hi> the Emperour at his last going out of Rome was,<note place="margin">The voice of Augustus.</note> that he should ne<g ref="char:EOLhyphen"/>uer returne againe to Rome, which was as sweete to <hi>Augustus,</hi> as the voice hard of <hi>Nero de Mauselo,</hi> that the Senators made hast to send executioners to kill <hi>Nero,</hi> or to bring him aliue againe into Rome, but he preuented both, kild himselfe.</p>
+               <p>These voices of the cry of blood, are more terri<g ref="char:EOLhyphen"/>ble then the roaring of Lions, of Tigers,<note place="margin">The voice of blood.</note> and of E<g ref="char:EOLhyphen"/>lephants in Theatrall hunting in their games of Circenses at Rome.</p>
+               <p>Ye more terrible then the <hi>Egyptian</hi> stratagem to the <hi>Scythians,</hi> who perceiuing the <hi>Scythian</hi> souldi<g ref="char:EOLhyphen"/>ers to be the best horsemen,<note place="margin">An Egiptian stratagem.</note> though in Egipt they cānot abide an Asse, yet for necessitie sake, they got a number of Asses together, whose cry so terrified the <hi>Scythian</hi> horses, that they made as great hast to returne from Epypt to Scythia,<note place="margin">Scynthian Hor<g ref="char:EOLhyphen"/>ses.</note> as the <hi>Ammorites</hi> did from <hi>Gabaon,</hi> when hailstones and great stones slue them in theirflight to Bethoron, this was a cry of blood from heauen vpon the <hi>Ammorites,</hi>
+                  <note place="margin">Bethoron.</note> to re<g ref="char:EOLhyphen"/>uenge <hi>Israel:</hi> and this cry is from the bloud of <hi>A<g ref="char:EOLhyphen"/>bel,</hi> to the bloud of <hi>Zacharias</hi> the priest.</p>
+               <p>The Scythian historie much agreeable to this,
+<pb n="50" facs="tcp:176938:30"/>that when they came to Persia, stayed longer then they did in Egypt,<note place="margin">The answere of the Scythians to Datius.</note> and beeing sent vnto by <hi>Darius</hi> to know when they would make an end of their marching and stand in battell to fight, they an<g ref="char:EOLhyphen"/>swered, <hi>cum adsepulchra venirent parentum, Darius</hi> should know that they came with a cry of bloud to reuenge <hi>Scythian</hi> bloud, vpon their fathers tomb so God doth limite time to be the Iudge and arbi<g ref="char:EOLhyphen"/>trator of all controuersies, <hi>lex talionis,</hi> bloud for bloud.</p>
+               <p>So God reuenged the Tyrannie of <hi>Adonisebech,</hi>
+                  <note place="margin">Adonisebech. Iud. 1.</note> who had seauentie Kings vnder his table, fed with the crums that fell vnder his table, without fingers to their hands, and without toes to their feete.</p>
+               <p>The like tyranny vsed <hi>Abimelech</hi> a Iudge in Isra<g ref="char:EOLhyphen"/>el,<note place="margin">Iud. 9.</note> who kild 70 brethren at one time, in one place, and vpon one stone, <hi>Turcorum Tyrannis,</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The Tyrants and Ʋsurers Glasse.</head>
+               <p>
+                  <seg rend="decorInit">P</seg>Oets faine,<note place="margin">Vsurers are monsters.</note> that <hi>Briarius</hi> was such a monster, that he had a hundred hands, and fifty bellies, but there be some more monstrous, that haue more then a 100 hands to rob and to spoyle the poore, and more then fifty bellies, to eate &amp; deuoure the poore, I meane the monstrous vsu<g ref="char:EOLhyphen"/>rers.</p>
+               <pb n="51" facs="tcp:176938:30"/>
+               <p>These be the moathes that eate mens clothes off their backs. These be the Canibals,<note place="margin">Vsurers the Moathes, Can<g ref="char:EOLhyphen"/>nibals, and Ca<g ref="char:EOLhyphen"/>terpillers.</note> which <hi>M. Cato</hi> whipt out of Sicilia. These bee the Caterpil<g ref="char:EOLhyphen"/>lers which <hi>Lucullus</hi> banished out of Asia:</p>
+               <p>These be the rauening Harpeies that deuoures mens corne yet on the ground, which <hi>Lu. Genutius</hi> exiled from Rome: And these bee they, whose bread in their bellies shall be turned into Serpents gaule. So <hi>Iob</hi> sayth, <hi>Panis in vtero vertetur in fel aspidum.</hi>
+                  <note place="margin">Iob. 20.</note>
+               </p>
+               <p>For it was lawfull in Rome before this time for Vsurers, for want of payment, to vse their Credi<g ref="char:EOLhyphen"/>tors, as men vse their wiues:<note place="margin">Alex. ab Alex. lib. 1. cap. 7.</note> So <hi>Caelius Plotius</hi> a great Vsurer in Rome would <hi>Constuprare Ti. Vituri<g ref="char:EOLhyphen"/>um,</hi> and so <hi>Papyrius</hi> would <hi>Pelicere Publium ad libi<g ref="char:EOLhyphen"/>dinem,</hi> for not making satisfaction of his debt to the Vsurer, <hi>O seculum Daemoniorum,</hi> for men to vse men with buggerie.</p>
+               <p>
+                  <hi>Archimedes</hi> was named amongst the Greekes <hi>Hecatonchera,</hi>
+                  <note place="margin">Plut. in Mar<g ref="char:EOLhyphen"/>cello.</note> for that he could shoot at one shoot a hundred bullets: These bullets of <hi>Archimedes</hi> was as terrible to the Romanes in Syracusa, as <hi>Di<g ref="char:EOLhyphen"/>onisius</hi> tyrannie was in Greece, or <hi>Tarquines</hi> pride was in Rome, and yet all these io<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ned together, are not so terrible as tyrannicall Vsurie.</p>
+               <p>There was a barbarous Nation in Scythia called <hi>Anthropophagi,</hi> that feede on mens flesh,<note place="margin">Tyrants and vsurers.</note> now dis<g ref="char:EOLhyphen"/>persed to diuers Kingdomes and Countries vnder diuers names, as Tyrants, Vsurers, and bloudy mas<g ref="char:EOLhyphen"/>sacres.</p>
+               <pb n="52" facs="tcp:176938:31"/>
+               <p>Yet in Egypt the Glasse of Vsurers was much accepted and allowed by Law:<note place="margin">Vsurie allowed in Egypt.</note> for the Vsurers in Egypt might arrest the body of the Creditor be<g ref="char:EOLhyphen"/>fore he should be buried: which was the greatest infamie that could be in Egypt.</p>
+               <p>Yet by the Law of <hi>Senatus Consultus</hi> in Rome, that which by the Lawe of the twelue Tables in Greece,<note place="margin">Alex. ab Alex<g ref="char:EOLhyphen"/>andro. lib. 1. cap. 7.</note> Vsurers that did vse <hi>pro arbitrio faenerari,</hi> were bridled for their accesse in Vsurie, as by the selfe said Lawes are set downe, <hi>De modo credendi per Senatus consultum.</hi>
+               </p>
+               <p>In Athens of long time,<note place="margin">Agis</note> Vsurers made too great excesse of vngodly gaine, vntill <hi>Agis</hi> time, duke of Athens,<note place="margin">Vsurers tables of debts burned at Athens.</note> who burned all their Tables of Debts in the Market place; and called Vsurers <hi>Tyran<g ref="char:EOLhyphen"/>nos.</hi>
+               </p>
+               <p>In Sparta <hi>Lycurgus</hi> made a Law,<note place="margin">Vsurers bani<g ref="char:EOLhyphen"/>shed.</note> to banish Vsu<g ref="char:EOLhyphen"/>rers out of the confines of Lacedemonia, so odi<g ref="char:EOLhyphen"/>ous and hatefull a name was Vsurie,<note place="margin">Vsurets compa<g ref="char:EOLhyphen"/>red to African monsters.</note> that the name of an Vsurer and the name of a Tyrant were all one, and was more monstrous in many countries then those monsters which <hi>Plinie</hi> writes to bee in Africa, some with heads like dogges, some with long eares to their feete, and some without eyther head, or eare, but with one great eye in the mid<g ref="char:EOLhyphen"/>dest of their breastes, like <hi>Polyphemus</hi> the Cy<g ref="char:EOLhyphen"/>clop.</p>
+               <p>But as <hi>Plato</hi> sayth of Vertue, It Vertue might be seene,<note place="margin">Platoes saying.</note> it would make all men much enamo<g ref="char:EOLhyphen"/>red with it; and so of these monsters, it would
+<pb n="53" facs="tcp:176938:31"/>terrifie any man to looke vpon them, if their in<g ref="char:EOLhyphen"/>ward foulenesse might be seene outwardly.</p>
+               <p>
+                  <hi>Heraclitus</hi> a Philosopher of Ephesus was willed to make some speech concerning loue and con<g ref="char:EOLhyphen"/>cord amongst the people,<note place="margin">Heracliitus stra<g ref="char:EOLhyphen"/>tagem.</note> beeing much molested and troubled by two great enemies, Vsurers and Tyrants: the Philosopher to satisfie the request of the people, went vp to the Pulpit, and called for a dish of cold water, and a little meale on a tren<g ref="char:EOLhyphen"/>cher, which the Philosopher put into the dish of water, mingled together, and dranke it vp, and came downe from the Pulpit without any more words.</p>
+               <p>Some of his friendes most desirous to knowe what he meant therby, answered,<note place="margin">Thrasibulus stratagem. Herodot. lib. 7</note>
+                  <hi>Torquatus Sextus</hi> knew his fathers meaning, and <hi>Periander</hi> knewe <hi>Thrasibulus</hi> minde, when the one did with his staffe <hi>Percutere capita papauerum,</hi> and the other, <hi>in detrun<g ref="char:EOLhyphen"/>catione spicarum.</hi>
+               </p>
+               <p>These dumbe stratagemes of mine did signifie the like, that <hi>Sextus</hi> should eyther banish the grea<g ref="char:EOLhyphen"/>test men of the Gabians,<note place="margin">Periander.</note> or should take off their heads, and so <hi>Periander</hi> to doe the like execution vpon the Nobles of Cotinth.</p>
+               <p>So that nothing can call Tyrants from their Ty<g ref="char:EOLhyphen"/>ranny, but punishments,<note place="margin">2 Mach. 9.</note>
+                  <hi>Anticchus</hi> that cruell Ty<g ref="char:EOLhyphen"/>rant, after that God had plagued him for his Ty<g ref="char:EOLhyphen"/>ranny in Ierusalem promised and vowed to repaire the Temple,<note place="margin">Antiochus pro<g ref="char:EOLhyphen"/>mise.</note> and to recompence the harme and e<g ref="char:EOLhyphen"/>uill that he did to the poore Iewes, <hi>se aequales Iudie<g ref="char:EOLhyphen"/>os
+<pb n="54" facs="tcp:176938:32"/>Atheniensibus facturum.</hi>
+               </p>
+               <p>So did <hi>Heliodorus</hi> vow and promise to the High priest (after he was whipt and scourged by a grea<g ref="char:EOLhyphen"/>ter Captane then himselfe,<note place="margin">Wicked vowes.</note> for his robbing of the Temple) amendment of his Tyranny, which was greater good workes then such Tyrants could per<g ref="char:EOLhyphen"/>forme.</p>
+               <p>Such trecherous vowes told <hi>Absolon</hi> to the King his father <hi>Vadam et reddam vota mea,</hi>
+                  <note place="margin">2. Reg. 15. Act. 23.</note> the like vowe made the Iewes to the High priest, <hi>Nihil gustaturos,</hi> before they would kill <hi>Paule.</hi>
+               </p>
+               <p>Such vowes and sacrifices the Prophet repre<g ref="char:EOLhyphen"/>hendeth, for that they were bloody, cruell, &amp; Ty<g ref="char:EOLhyphen"/>rant like, and of such the Lord saith, I delight not in your vowes and sacrifices, <hi>quia manus vestrae plenae sunt sanguine.</hi>
+               </p>
+               <p>The difference betweene Kings and Tirants is,<note place="margin">The difference betweene kings and tyrants.</note> that the King holdeth his sword in his hand, <hi>in mu<g ref="char:EOLhyphen"/>nimentum pacis,</hi> the Tyrant <hi>vt timore magno, magna compescat odia,</hi>
+                  <note place="margin">Seneca.</note> saith <hi>Seneca,</hi> and therefore the life of a Tyrant is short &amp; execrable, for his bloody glasse can not long endure.</p>
+               <p>For <hi>Thales</hi> the Philosopher beeing asked what was the strangest sight he had seene,<note place="margin">Thales saying.</note> answered, <hi>Ty<g ref="char:EOLhyphen"/>rannem senem:</hi>
+                  <note place="margin">Iob. 20.</note> For if a Tyrant scape <hi>Seylla,</hi> hee fal<g ref="char:EOLhyphen"/>leth into <hi>Charibdis, fugiens arma ferrea irruet in arcū aereum.</hi>
+               </p>
+               <p>All Tyrants thinke and say as <hi>Dionisius</hi> the elder saide to his sonne, that Armed men are the surest friends for Tyrants to trust vnto, at which <hi>Plato</hi>
+                  <pb n="55" facs="tcp:176938:32"/>smiled, &amp; asked what euill Tyrants doe, they must be so guarded,<note place="margin">The saying of a Philosopher of a Tyrant.</note> so it should bee said an other <hi>Philo<g ref="char:EOLhyphen"/>sopher,</hi> that Tyrants should be, <hi>muniti gladijs, et septi venenis,</hi> to keep them from doing harme to others, for Tyrants are alwaies armed to doe euill, they say <hi>licet si libet.</hi>
+               </p>
+               <p>
+                  <hi>Antigonus</hi> was of an other minde then <hi>Dionisius</hi> was, &amp; said that faithfull friends,<note place="margin">Antigonus. saying.</note> the loue &amp; good will of subiects, are a stronger band then <hi>Dionisius</hi> band, and therefore Kings ought to make much of their Subiects,<note place="margin">Arist. lib. 8. polit cap. 10.</note> to loue and to haue care ouer them <hi>Rex subditorum commoda quaerit, Tirannus sua.</hi>
+               </p>
+               <p>It is most necessarie that they which feare not god shold be punished of God, &amp; therfore was <hi>Isra el</hi> afflicted by <hi>Pharao</hi> in Egypt,<note place="margin">Israelits affli<g ref="char:EOLhyphen"/>cted.</note> bitten in the wilder<g ref="char:EOLhyphen"/>nesse by Serpents, murthered and slaine in their Countries by many Tyrants, dispersed and scatte<g ref="char:EOLhyphen"/>red to all parts of the world, vntill they knew the Lord.</p>
+               <p>So <hi>Manasses</hi> confessed,<note place="margin">Paralip. 34. Manasses. Iudith. 23.</note> after much bloud and tyrannie in Hierusalem, &amp; so <hi>Nabuchadnezzar</hi> ac<g ref="char:EOLhyphen"/>knowledged God, to be God, whē he was cast out from amongst men, to be as a beast among beasts, who thought before to subdue the whole world, <hi>vt solus diceretur Deus.</hi>
+               </p>
+               <p>The swallowing of <hi>Dathan</hi> and <hi>Abiron,</hi>
+                  <note place="margin">Num. 16.</note> with the rest of their complices, quicke to the earth, was to put the people in feare, thereby to feare God: the Trumpets, the smoking and quaking of Mount Sion, was to terrifie the Iewes (said <hi>Moises) ne pecca<g ref="char:EOLhyphen"/>rent
+<pb n="56" facs="tcp:176938:33"/>in Dominum.</hi>
+               </p>
+               <p>The poore scattering and dispersed Iewes in Per<g ref="char:EOLhyphen"/>sia,<note place="margin">Assuerus.</note> the Lord appointed one <hi>Mardocheus</hi> to looke vnto them, that <hi>Assuerus</hi> the great king of Persia, that said to <hi>Haman,</hi> Doe with the Iewes what thou wilt, as <hi>Zedechias</hi> King of Iuda said to his Nobles, Do with <hi>Ieremie</hi> what you please.</p>
+               <p>And to the poore Hebrewes in Egypt,<note place="margin">Pharaoh.</note> vnder that cruell Tyrant <hi>Pharaoh,</hi> God left one <hi>Ioseph</hi> to comfort Israel, one <hi>Moses</hi> to deliuer <hi>Israel,</hi> and one <hi>Ioshua</hi> to fight for <hi>Israel,</hi> that neyther <hi>Assuerus</hi> in Persia, nor <hi>Pharaoh</hi> in Egypt, could vex the people of God, no more, nor no longer, then God suffered.</p>
+               <p>But as these bloudie Tyrants delighted much in bloud,<note place="margin">bloudy Tyrants</note> so the crie of bloud followed them to their graue. And so of these wicked Vsurers, that as the Tyrants were neuer satisfied with bloud, so they are neuer satisfied with money.</p>
+               <p>That some of the Iewes were so oppressed by the rich Vsurers in Iudah,<note place="margin">Nehe. 5.</note> that they were forced to satisfie these Vsurers with the sales of their sonnes and of their daughters, to be their vassales and ser<g ref="char:EOLhyphen"/>uants,<note place="margin">The tyrannie of vsurers.</note> vntill <hi>Nehemias</hi> beeing then in great fauour with the King of Persia, rebuked them, and shame<g ref="char:EOLhyphen"/>fully reprooued them for their abhominable V<g ref="char:EOLhyphen"/>surie.</p>
+               <p>For before the Law <hi>Sisactheia</hi> was made against Tyrants and Vsurers,<note place="margin">The law of the 12 Tables.</note> it was lawfull (as I said be<g ref="char:EOLhyphen"/>fore) by the Lawe of the twelue Tables to satisfie themselues with cutting in pieces of the dead
+<pb n="57" facs="tcp:176938:33"/>bodies, and so to be paied of their debts by pieces of dead mens flesh.</p>
+               <p>But few doe <hi>foenerari domino,</hi> which is vaileable Vsurie, and great gaine, to gaine <hi>Sextuplum &amp; cen<g ref="char:EOLhyphen"/>tuplum,</hi> and not such gaine,<note place="margin">Simon Magua.</note> as <hi>Symon Magus</hi> the Sorcerer, to offer money to the Apostles, that vpō whomsoeuer hee should lay his hands, might re<g ref="char:EOLhyphen"/>ceiue the Holy Ghost, to gaine money there<g ref="char:EOLhyphen"/>by: Nor with <hi>Ananias</hi> and <hi>Saphira</hi> his wife, to make a lye to the Apostle, and to keepe backe the money which should haue beene confest to <hi>Pe<g ref="char:EOLhyphen"/>ter.</hi> Not with such couetous men, as wish <hi>Mydas</hi> hand, that whatsoeuer they touch, should be gold:<note place="margin">Giges ring.</note> nor with ambitious men, to wish <hi>Giges</hi> ringe, that whatsoeuer they say or doe, should bee magnified by the people.</p>
+               <p>This is not <hi>foenerari Domino,</hi> this is not to make friends of wicked Mammon, to giue almes to the poore, to feede the hungry, and to clothe the na<g ref="char:EOLhyphen"/>ked, this is not to relieue the fatherlesse,<note place="margin">Esai. 1.</note> the op<g ref="char:EOLhyphen"/>pressed, and defend the cause of the widdow.</p>
+               <p>But these ambitious Tyrants haue nothing in their hearts and mouths, but <hi>vtinam,</hi> so <hi>Gaal</hi> said, <hi>Vtinam populus iste esset sub manu mea,</hi> so ambiti<g ref="char:EOLhyphen"/>ous <hi>Pyrrhus</hi> spake of the Romanes, so ambiti<g ref="char:EOLhyphen"/>ous <hi>Haman</hi> spake of the poore Iewes in Per<g ref="char:EOLhyphen"/>sia.<note place="margin">Pyrrhus.</note>
+               </p>
+               <p>Thus they by wishing and speaking, climbe from one rotten bough to another, as <hi>Augustine</hi> sayth, <hi>Per pericula ad periculum grandius,</hi> till the rot<g ref="char:EOLhyphen"/>ten
+<pb n="58" facs="tcp:176938:34"/>bough bee broken, and then their ambitious glasse is broken.</p>
+               <p>The ambitious Tyrant as the base Gorse,<note place="margin">Hest. 3.</note> which would be King amongst the Trees, like <hi>Abimelech;</hi> and yet one <hi>Mardocheus</hi> or other is alwaies in their sight, that troubleth them: Like that prowd and ambitious <hi>Haman</hi> obtained of King <hi>Asuerus,</hi>
+                  <note place="margin">Esther. 3.5.</note>
+                  <hi>Om<g ref="char:EOLhyphen"/>nem nerem Iudaeerum,</hi> for one Iewes sake to reuenge his malice vpon all the poore scattered Iewes through all Persia.</p>
+               <p>
+                  <hi>Mithridates</hi> of meere spight to the Romans cau<g ref="char:EOLhyphen"/>sed all the poore Romanes,<note place="margin">Mithridates.</note> dispersed throughout all Asia, to the number of 80000 to bee slaine in one day, for the hatred hee had to <hi>Lucullus</hi> and <hi>Pompey, Quivna Epistola</hi> 80000 <hi>Romanorum ciuium intremito.</hi>
+               </p>
+               <p>For crueltie and tyrannie,<note place="margin">Val. Max. lib. 9 cap 2.</note> the Thracians, a Na<g ref="char:EOLhyphen"/>tion to whom no crueltie seemeth cruell to sawe quick men in the middest, to make the parents eat their owne children, a nation, <hi>cut nihil esse nephas putarunt,</hi> not their most cruell King <hi>Numulizinthes</hi> might not in Tyrannie match <hi>Pto. Phiscon.</hi> of whō <hi>Iosephus</hi> make mention.</p>
+               <p>Who caused his only sonne to be slaine before his face,<note place="margin">Lib. Antiq. 2</note> his head to be cut of, both his hands and both his feete in like sorte eut off, and send it in a rich chest couered to his mother <hi>Cleapatra,</hi> and his wife, as the historie saith, <hi>pro munere natalitio ma<g ref="char:EOLhyphen"/>tri misit.</hi>
+               </p>
+               <p>To what end should I recite the Tyranny of <hi>O<g ref="char:EOLhyphen"/>chus,</hi>
+                  <pb n="59" facs="tcp:176938:34"/>surnamed <hi>Artaxerxes,</hi>
+                  <note place="margin">Euseb. <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 12.</note> who buried <hi>Ocham</hi> his sister and his mother in lawe aliue, who slue an hundred more of his childrens children, <hi>Cum cen<g ref="char:EOLhyphen"/>tum filijs ac nepotibus iaculis cōsixit:</hi> for that they were well beloued and much exteemed in Persia, the only cause of their destruction, <hi>vt hijs trucidatis tu<g ref="char:EOLhyphen"/>tius regnaret.</hi>
+               </p>
+               <p>Yet all the Tyrants of all Tyrants of the world, nor all the pollicie and inuention of man, <hi>Epeus</hi> wooden horse to destroy the stout Troians,<note place="margin">Archimedes. Cic. in pis.</note>
+                  <hi>Peril<g ref="char:EOLhyphen"/>lus</hi> brasen Bull, to destroy the <hi>Agrigentins,</hi> nor all the <hi>Mathematicals</hi> inuention of <hi>Archimedes</hi> to destroy the Romans, could not come nigh to that diuellish stratagem at Westminster.</p>
+            </div>
+            <div type="part">
+               <head>The glasse of Images.</head>
+               <p>
+                  <seg rend="decorInit">O</seg>Ne thing of the cry of Gods, and of Images, to shew forth some su<g ref="char:EOLhyphen"/>perstitions.<note place="margin">Cic. 2. de natu<g ref="char:EOLhyphen"/>ra. de or.</note>
+                  <hi>Vatinius</hi> a Roman Ci<g ref="char:EOLhyphen"/>tisen, walking in an euening out of Rome, met with <hi>Castor</hi> and <hi>Pollux</hi> that cryed to <hi>Vatinius</hi> and said, that King <hi>Persius</hi> was taken, and all his Macedonian Armies called <hi>Phalanges</hi> slaine.</p>
+               <p>
+                  <hi>Mars</hi> himselfe was also seene taking the Romains parts against the Brutians, and Lucanians,<note place="margin">Val. max. lib. 1. cap. 8.</note> at the battell of <hi>Thurina,</hi> where <hi>Mars</hi> snacht a Roman En<g ref="char:EOLhyphen"/>signe, and cryed aloud to the Romans, to followe him, who rusht before them, through the midst of
+<pb n="60" facs="tcp:176938:35"/>their enemies, when <hi>Phab. Lucius</hi> was Consul.</p>
+               <p>Againe beasts also spake in Rome, which is most strange, that a dog spake in the time of <hi>Tarquine</hi> the proud, and another time a serpent did barke, or the lowing of an Oxe, should be turned to the voice of a man, when <hi>Pub. volumnius</hi> was Consull in Rome.</p>
+               <p>Yet why should not Oxen speake in Rome,<note place="margin">Oxen spake in Rome.</note> as<g ref="char:EOLhyphen"/>well as Oules in Athens, for as <hi>Bos in Lingua</hi> was in euery mans mouth in Rome, so <hi>Noctua Athenis,</hi> was in euery mans mouth at Athens, so that Oxen in Rome, and Owles in Athens spake all, and did all,<note place="margin">Oules in Athens.</note> without which, nothing could be done, nor nothing could bee heard in Rome, or in A<g ref="char:EOLhyphen"/>thens.</p>
+               <p>During the time of the Peloponesian warres,<note place="margin">Plut. in lisando.</note> which continued seauen and twentie yeares: Snailes ruled &amp; gouerned the most part of Greece, that it was as common a speach amongst the Lace demonians, <hi>virtus et sapientia testudini cedit,</hi> that snailes were in Sparta, as Oxen were in Rome, or Owles in Athens,<note place="margin">Iul. pollux. lib. 9. de verum vo.</note> and all cryed in one voice, <hi>Ius in armis.</hi>
+               </p>
+               <p>Wee had also Bulls in times past in England,<note place="margin">Bulles some<g ref="char:EOLhyphen"/>times in En<g ref="char:EOLhyphen"/>glande.</note> that so cryed, <hi>Ius in armis,</hi> to burne, to kill, and to destroy, which <hi>Simon Magus</hi> the Roman sent to shed as much bloud in England, as <hi>Manasses</hi> did in Iuda.</p>
+               <p>For which bloud, the Lord did send <hi>Latruncu<g ref="char:EOLhyphen"/>los Chaldeorum Moab, &amp; Ammon</hi> to destroy <hi>Iuda,</hi>
+                  <pb n="61" facs="tcp:176938:35"/>and wee thanke God, and say with <hi>Ieremie, mirum quod non consumpti fuissemus,</hi> and againe say with the Prophet <hi>Dauid,</hi> that our watching had beene in vaine, (from Spaniards and others) <hi>Nisi domi<g ref="char:EOLhyphen"/>nus Ciuitatem, custodijsset,</hi> and againe with <hi>Isa,</hi> say if God had not seured his Church, and the rem<g ref="char:EOLhyphen"/>nant of his people, we should haue beene destroy<g ref="char:EOLhyphen"/>ed like <hi>Sodom</hi> and <hi>Gomorrha.</hi>
+               </p>
+               <p>But now the Image of fortune,<note place="margin">Plut in Coroli.</note> spake twise to the Matrons of Rome, giuing them great thanks, saying, <hi>Recte me Matrone vidistis,</hi> and at another said <hi>Rite mihi dedicastis matrone.</hi>
+               </p>
+               <p>The Image of <hi>Siluanus,</hi> was heard out of the wood <hi>Arsia,</hi> crying aloud, <hi>vno plus Hetrussicadent,</hi> And the Image of <hi>Ceres</hi> at Myletum, at which time <hi>Alexander</hi> besieged Miletum, and tooke it, and for that his soldiers spoyled, and burned the Temple of <hi>Ceres,</hi>
+                  <note place="margin">Lactan. instit. lib. 2. cap. 8.</note> the same fire burned <hi>Alexanders</hi> soldiers, <hi>hinc timor nimius,</hi> hence grew the feare of Images, to be more then the feare of <hi>Alexander.</hi>
+               </p>
+               <p>So is it Historied, that the Images that <hi>Aneas</hi> brought from Troy to Italie,<note place="margin">Dion. lib. deorum lib 1.</note> were first placed in Lauinium, a towne which <hi>Aneas</hi> builded, but after Aneas death, <hi>Ascanius</hi> his sonne brought those I<g ref="char:EOLhyphen"/>mages to his City Alba.</p>
+               <p>but these Images being not contented to bee taken from their first seate, remoued themselues with<g ref="char:EOLhyphen"/>out the hands or helpe of men, from Alba to La<g ref="char:EOLhyphen"/>uinium againe, <hi>hinc nimius cultus.</hi>
+               </p>
+               <pb n="62" facs="tcp:176938:36"/>
+               <p>But these are dreames and imaginations of su<g ref="char:EOLhyphen"/>perstitious melancholy people so deeply wrought that they thinke to heare what they heare not, and to see what they see not. So <hi>Aristotle</hi> writes of one that neuer went abroad, but he thought he saw alwayes an Image euer obiect against him.<note place="margin">Arist. lib. 3 Meteor.</note> Another perswading himself that he was so light, got yron shoes, least the wind would blow him a<g ref="char:EOLhyphen"/>way. Another got barkes of Trees bound about his middle,<note place="margin">Rhodiginus.</note> least he should bend and breake in the middle. I wrot of this in another place.</p>
+               <p>So strange are these passions of Melancholie, that one held his head vpon his shoulders, imagi<g ref="char:EOLhyphen"/>ning that <hi>Atlas</hi> being wearie,<note place="margin">Melancholy Imaginations.</note> would let the Hea<g ref="char:EOLhyphen"/>uens fall vpon his head, and kill him.</p>
+               <p>Another perswaded himselfe, that hee had no head, but it was cut off: another imagined that his nose was bigger then his whole bodie: and ano<g ref="char:EOLhyphen"/>ther at his death told his friends, that he was wil<g ref="char:EOLhyphen"/>ling to die, but that he feared theeues which lay in ambush in the middle Region, among the Clouds.</p>
+               <p>So one thought his shoulders and buttockes to be glasse:<note place="margin">Cor. Agrip. lib. 1. Occult. Philos.</note> another beleeued, that he was the snuffe of a Candle, full of imaginations and thoughts, these are but few words.</p>
+               <p>This was the cause why Images were seene, and the crie of Images heard, <hi>Hinc nimius timor,</hi> too much feare, too much superstitious worshipping,
+<pb n="63" facs="tcp:176938:36"/>that one of <hi>Camillus</hi> souldiors asked the Image of <hi>Iuno</hi> in Latine, <hi>Vis migrare Romani.</hi>
+               </p>
+               <p>
+                  <hi>Alcanes</hi> would shew his skill to make lame <hi>Vul<g ref="char:EOLhyphen"/>cane</hi> streight, because hee should not bee called <hi>Claudius Deus.</hi>
+               </p>
+               <p>
+                  <hi>Phidias</hi> was like to be stoned of the people,<note place="margin">Phidias.</note> for that he made the Image of <hi>Minerua</hi> in yuorie and not in brasse, to continue long.</p>
+               <p>
+                  <hi>Appelles</hi> mused how he might diminish the mole on <hi>Venus</hi> cheeke.<note place="margin">Appelles.</note>
+                  <hi>Xeuxes</hi> how he might make lesse the staine on <hi>Helens</hi> face.</p>
+               <p>
+                  <hi>Euphranor</hi> after he had shewed his greatest cun<g ref="char:EOLhyphen"/>ning in limning and setting 12. Gods in Athens,<note place="margin">Euphranor. Val. Max. lib. 8. cap. 2.</note> he imagined to make such an Image to <hi>Neptune,</hi> as should farre excell the Image of <hi>Iupiter.</hi>
+               </p>
+               <p>Many Images were made in Greece, some like Mares, that Horses neyed vpō them:<note place="margin">Aeli. ver. hist. 2.</note> some like bit<g ref="char:EOLhyphen"/>ches, that dogs followed them: and some made in brasse, like Kine, that Buls lowed vpon them: and some like women, that some yong men fel in loue, that <hi>Homer</hi> thought good to banish such Painters out of Greece.</p>
+               <p>What should I speake of <hi>Romulus</hi> Scepter, of the Image of <hi>Seru. Tullius,</hi> and of the Image of <hi>Claudia</hi> the Vestall Virgine, who though the three Temples were burned with fire to the earth, yet the fire could not approach to these Images and Scepter.</p>
+               <p>Such terrour and feare were of Images in all Countries, that for the taking of a tyle-stone from
+<pb n="64" facs="tcp:176938:37"/>the Temple of <hi>Iuno</hi> by <hi>Fulv. Flaccus,</hi> hee and his two sonnes died for it:<note place="margin">Liv. 42</note> which thing so frighted the Senators, that they sent the tyle-stone backe again to <hi>Iunoes</hi> Temple.</p>
+               <p>The like punishment <hi>Qu. Pleminius</hi> had for the spoyling of <hi>Proserpinaes</hi> Temple,<note place="margin">Iunoes teeth.</note> so that king <hi>Ma<g ref="char:EOLhyphen"/>sinissa</hi> being presented with certaine yuorie teeth, which came from Melita, vnderstanding they were <hi>Iunoes</hi> teeth, with much feare excused himselfe, and sent them backe againe, least the goddesse <hi>Iu<g ref="char:EOLhyphen"/>no</hi> would be offended with him, as shee was with <hi>Flaccus.</hi>
+                  <note place="margin">The feare of I<g ref="char:EOLhyphen"/>mages.</note>
+               </p>
+               <p>The feare of Images was in many Countries, that neyther Religion nor Lawes were made, vnles they were authorised by Images, and permitted by Augurers.<note place="margin">Plut. Mirrors.</note>
+               </p>
+               <p>As in Creete King <hi>Minos</hi> was wont euery ninth yeare to climbe a high rocke, and there to stay a while, as though he were that while instructed by <hi>supiter,</hi> with what Religion and Lawes he should rule the people of Creete.</p>
+               <p>And for that these Kings would obserue their Religion and Lawes,<note place="margin">Val. Max. de. Relig. cap. 3</note> by their Gods thus authori<g ref="char:EOLhyphen"/>zed, <hi>Cne. Calpurnius,</hi> in his time, beeing Con<g ref="char:EOLhyphen"/>sull, by the consent of the Senatours made a Decree, That all Philosophers and Chaldaean Astrologers should bee banished out of Rome and Italie,<note place="margin">Philosophes ba<g ref="char:EOLunhyphen"/>nished from Rome.</note> within tenne dayes, least they should deceiue the people with Philosophie and A<g ref="char:EOLhyphen"/>stronomie.</p>
+               <pb n="65" facs="tcp:176938:37"/>
+               <p>
+                  <hi>Egipt</hi> the Mother of all superstition, which carried their Gods before them in their Ensignes,<note place="margin">The house of Iuda, &amp; Israel, compared to two Harlots. Eze. 23.</note> as chiefe Capraines; with her two daughters <hi>Athens,</hi> and <hi>Rome,</hi> were euer accused with the su<g ref="char:EOLhyphen"/>perstition (some time) of <hi>Hierusalem</hi> and <hi>Sama<g ref="char:EOLhyphen"/>ria,</hi> which the Prophet calles <hi>Aholah</hi> and <hi>Aho<g ref="char:EOLhyphen"/>libah:</hi> two common harlots that defiled them<g ref="char:EOLhyphen"/>selues with the Idolatrie of the <hi>Assirians,</hi> and the <hi>Babilonians,</hi> and the <hi>Caldeans.</hi>
+               </p>
+               <p>In <hi>Egipt</hi> the <hi>Iewes</hi> were taught to say to <hi>Aron, fac nobis Deos,</hi> make vs Gods to goe before vs;<note place="margin">Horses, Dog<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, and Cats burned.</note> so that in <hi>Rome</hi> they buried Horses, in <hi>Greece</hi> Dogges, in <hi>Egipt</hi> Cates, Crocodiles, and many other such Foules, and Beastes, and that by such men as were Emperours and Kinges.</p>
+               <p>
+                  <hi>Alexander</hi> the great,<note place="margin">Alex. ab A<g ref="char:EOLhyphen"/>lexandro Lib. 6. cap. 19.</note> buried his horse <hi>Buce<g ref="char:EOLhyphen"/>phalus</hi> in <hi>Bucephalia: Comodus</hi> an Emperour of <hi>Rome</hi> buried his horse <hi>Prasinus,</hi> in no base place in <hi>Rome,</hi> but in <hi>Vaticano:</hi> and King <hi>Merthes</hi> made rich Tombes for his Crowes, Cats and Cro<g ref="char:EOLhyphen"/>codiles, <hi>in palude myridis</hi> in <hi>Egipt.</hi>
+               </p>
+               <p>I wish it were so amongst Christians (that should feare that cursed sentence:<note place="margin">Deut. 27.</note>
+                  <hi>Cursed bee they that serue Idoles and Images)</hi> that they would also bury their Images, as these Heathen Princes haue buried their beastes; or as <hi>Iacob</hi> did <hi>Rahels</hi> Image; burne them as <hi>Iosias</hi> did in <hi>Hierusalem,</hi> and threw the ashes into <hi>Cedron.</hi>
+               </p>
+               <p>Sometime Pope <hi>Adrian</hi> in <hi>Rome,</hi>
+                  <note place="margin">Pope Adrian. Gen. 35.</note> would haue done (as <hi>Iacob</hi> and <hi>Iosias</hi> did in <hi>Israel</hi>) de<g ref="char:EOLhyphen"/>stroy
+<pb n="66" facs="tcp:176938:38"/>all Idols and Images throughout <hi>Rome</hi> and all <hi>Italie:</hi>
+                  <note place="margin">Hiefield, cap. 7. de terra.</note> calls his Cardinalls and Cleargie to a Synod, where this whole purpose was opened; that many secrets done by the Popes and Cardi<g ref="char:EOLhyphen"/>nalls, were reuealed by these Images <hi>per clandesti<g ref="char:EOLhyphen"/>nus intermatros?</hi>
+               </p>
+               <p>One of his Cardinalls said, Holy Father, if you burie these Images as <hi>Iacob</hi> did,<note place="margin">4. Reg. 23.</note> some will seeke them out as <hi>Laban</hi> did: if you burne them as <hi>Iosias</hi> did, and throwe the ashes into <hi>Tiber,</hi> the wind will so scatter the ashes, that they will increase to as many Images, as the <hi>Serpents</hi> teeth of <hi>Medea</hi> did to armed men.</p>
+               <p>In the time of <hi>Achab</hi> and <hi>Manasses,</hi>
+                  <note place="margin">4. Reg. 16.</note>
+                  <hi>Israel</hi> was full of Idolarie, nothing but <hi>Idolatria sortilegia &amp; homicidia,</hi> the Altar and the gods of <hi>Damascus.</hi>
+               </p>
+               <p>In the time of <hi>Amasias</hi> the gods of <hi>Edome:</hi>
+                  <note place="margin">The gods of Edom.</note> in the time of <hi>Achas,</hi> not onely the gods of <hi>Da<g ref="char:EOLhyphen"/>mascus,</hi> the gods of <hi>Edome,</hi> but also the gods of <hi>Syria,</hi>
+                  <note place="margin">2. Paralip. 18.</note> for <hi>Achas</hi> said; <hi>Dij regum Syriae auxiliantur eis,</hi> I will worship and serue them.</p>
+               <p>So that Images in <hi>Israel,</hi> were as much honou<g ref="char:EOLhyphen"/>red and worshipped as amongst the Greekes and the Romans; <hi>qui quaerebant Deum inter deos,</hi> that sought out God amongst their Images.</p>
+               <p>King <hi>Asa</hi> did not so, he destroyed their Idols and their groues in the land of <hi>Iuda.</hi>
+                  <note place="margin">3 Reg. 15.</note>
+                  <hi>Iosephat</hi> o<g ref="char:EOLhyphen"/>uerthrew their gods and their Altares in Mount Sinay.<note place="margin">4. Reg. 18.</note>
+                  <hi>Ezechias</hi> purged the Temple of <hi>Ierusalem</hi> of their idolatrous reliques, and brake the bra<g ref="char:EOLhyphen"/>sen Serpent into powder.</p>
+               <pb n="67" facs="tcp:176938:38"/>
+               <p>The Poet faines,<note place="margin">Mae tamorph.</note> that the three fatall Ladies of destinie were appointed Scribes and Secretaries vnto <hi>Iupiter,</hi> to write his lawes and decrees in bra<g ref="char:EOLhyphen"/>sen Tables, which the Heathens did more reue<g ref="char:EOLhyphen"/>rence and esteeme then the <hi>Iewes</hi> did the Table in <hi>Mount Sinai,</hi> written by the finger of God,<note place="margin">Exod. 20.</note> and there giuen to <hi>Moses</hi> to instruct the children of <hi>Israel.</hi>
+               </p>
+               <p>Amongst the <hi>Ephesians,</hi>
+                  <note place="margin">The Image of Diana.</note> the maiestie of the great goddesse <hi>Diana,</hi> whose Image came downe from heauen was great, and so great, that <hi>Paul</hi> escaped narrowly from them aliue.</p>
+               <p>The Image of <hi>Moloch</hi> in <hi>Tophet</hi> in the Valie of <hi>Hinuon,</hi>
+                  <note place="margin">Moloch. 4. Reg. 23</note> where they offered their sonnes and daughters, in sacrifice to their god <hi>Moloch,</hi> where not onlie the King of <hi>Moab,</hi> offered his eldest sonne, that should raigne King after him:<note place="margin">4 Reg. 16.</note> but <hi>Ahaz,</hi> King of <hi>Iuda,</hi> did offer his sonne through fire.</p>
+               <p>At the spoyle of <hi>Rhodes,</hi> the Citizens requested nothing, neither wealth, nor treasure at <hi>Cas<g ref="char:EOLhyphen"/>sius</hi> hand, but this, <hi>ne a cunctis Deorum simulacris spoliarentur.</hi> That he would not take their gods a<g ref="char:EOLhyphen"/>way altogether. So did <hi>Laban</hi> expostulate with <hi>Iacob</hi> for his gods, and so did <hi>Micheas</hi> runne after the Tribe of <hi>Dan,</hi> for his <hi>Image:</hi> and, so many runne to <hi>Rome,</hi> to <hi>Hispaine</hi> after <hi>Images,</hi> and some keepe their Images close in <hi>Great Britaine.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
